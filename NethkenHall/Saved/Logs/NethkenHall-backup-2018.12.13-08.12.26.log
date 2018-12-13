@@ -1,0 +1,1619 @@
+﻿Log file open, 12/13/18 01:45:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NethkenHall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183603
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.082s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 3 1300X Quad-Core Processor          , GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.13-07.45.18:873][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.13-07.45.18:873][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.13-07.45.18:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.13-07.45.18:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:874][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:882][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.13-07.45.18:882][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.13-07.45.18:883][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.13-07.45.18:883][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.13-07.45.18:883][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.13-07.45.18:897][  0]LogHAL: Display: Platform has ~ 16 GB [17106382848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.13-07.45.18:897][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.13-07.45.18:897][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.13-07.45.18:897][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.13-07.45.18:898][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.13-07.45.18:898][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2018.12.13-07.45.18:898][  0]LogInit: Computer: DESKTOP-95GOUHO
+[2018.12.13-07.45.18:898][  0]LogInit: User: kaleb
+[2018.12.13-07.45.18:898][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.13-07.45.18:898][  0]LogInit: High frequency timer resolution =3.411558 MHz
+[2018.12.13-07.45.18:899][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.13-07.45.18:899][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.13-07.45.18:899][  0]LogMemory: Process Physical Memory: 102.27 MB used, 102.27 MB peak
+[2018.12.13-07.45.18:899][  0]LogMemory: Process Virtual Memory: 84.65 MB used, 84.65 MB peak
+[2018.12.13-07.45.18:899][  0]LogMemory: Physical Memory: 5322.57 MB used,  10991.34 MB free, 16313.92 MB total
+[2018.12.13-07.45.18:899][  0]LogMemory: Virtual Memory: 4633.76 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2018.12.13-07.45.18:918][  0]LogInit: Using OS detected language (en-US).
+[2018.12.13-07.45.18:918][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.13-07.45.18:919][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.13-07.45.19:338][  0]LogStreaming: Display: Took  0.420s to InitEngineTextLocalization.
+[2018.12.13-07.45.19:338][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.13-07.45.19:371][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.13-07.45.19:371][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.13-07.45.19:577][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.13-07.45.19:577][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.13-07.45.19:646][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.12.13-07.45.19:647][  0]LogD3D11RHI:       2988/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.13-07.45.19:649][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.13-07.45.19:649][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.13-07.45.19:649][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.13-07.45.19:657][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.13-07.45.19:657][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.13-07.45.19:657][  0]LogWindows: EnumDisplayDevices:
+[2018.12.13-07.45.19:657][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.12.13-07.45.19:657][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2018.12.13-07.45.19:657][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.12.13-07.45.19:658][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.12.13-07.45.19:658][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.13-07.45.19:658][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.12.13-07.45.19:658][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.12.13-07.45.19:658][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.12.13-07.45.19:658][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.12.13-07.45.19:711][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.13-07.45.19:732][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.13-07.45.20:006][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.13-07.45.20:021][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.13-07.45.20:035][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.13-07.45.20:048][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.13-07.45.20:063][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.13-07.45.20:079][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.13-07.45.20:093][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.13-07.45.20:107][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.13-07.45.20:114][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-07.45.20:203][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.13-07.45.20:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.13-07.45.20:266][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.13-07.45.20:292][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.13-07.45.20:292][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.13-07.45.20:306][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.13-07.45.20:319][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.13-07.45.20:333][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.13-07.45.20:348][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.13-07.45.20:398][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.13-07.45.20:398][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.13-07.45.20:398][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.13-07.45.20:442][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Intermediate/Shaders/WorkingDirectory/4288/).
+[2018.12.13-07.45.20:442][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kaleb/AppData/Local/Temp/UnrealShaderWorkingDir/66C25E2548BFC93D8DA16A86D76A0C49/'.
+[2018.12.13-07.45.20:443][  0]LogXGEController: Cleaning working directory: C:/Users/kaleb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.13-07.45.20:444][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.13-07.45.20:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.13-07.45.20:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.13-07.45.21:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.13-07.45.21:071][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/kaleb/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.13-07.45.21:071][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kaleb/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.13-07.45.21:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.13-07.45.21:071][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.13-07.45.21:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.13-07.45.21:071][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.13-07.45.21:085][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.13-07.45.21:085][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.13-07.45.21:085][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.13-07.45.21:098][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kaleb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.13-07.45.21:098][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.13-07.45.21:098][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.13-07.45.21:121][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.13-07.45.21:123][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.13-07.45.21:123][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.13-07.45.21:221][  0]LogAssetRegistry: FAssetRegistry took 0.0360 seconds to start up
+[2018.12.13-07.45.21:593][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.13-07.45.21:734][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.13-07.45.21:737][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.13-07.45.21:738][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.13-07.45.21:738][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.13-07.45.21:738][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.13-07.45.21:758][  0]LogNetVersion: NethkenHall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1845692274)
+[2018.12.13-07.45.22:352][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.112534 seconds
+[2018.12.13-07.45.22:361][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.13-07.45.22:361][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.13-07.45.22:361][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.13-07.45.23:234][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.13-07.45.23:248][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.13-07.45.23:910][  0]SourceControl: Source control is disabled
+[2018.12.13-07.45.23:910][  0]SourceControl: Source control is disabled
+[2018.12.13-07.45.23:911][  0]SourceControl: Source control is disabled
+[2018.12.13-07.45.23:912][  0]SourceControl: Source control is disabled
+[2018.12.13-07.45.24:078][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.13-07.45.24:166][  0]LogOcInput: OculusInput pre-init called
+[2018.12.13-07.45.24:297][  0]LogEngine: Initializing Engine...
+[2018.12.13-07.45.24:298][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.13-07.45.24:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.13-07.45.24:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.13-07.45.24:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.13-07.45.24:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.13-07.45.24:530][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.13-07.45.24:540][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.13-07.45.24:589][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO Wireless Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.12.13-07.45.24:745][  0]LogInit: FAudioDevice initialized.
+[2018.12.13-07.45.24:745][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.13-07.45.24:831][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/kaleb/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.13-07.45.24:842][  0]LogInit: Texture streaming: Enabled
+[2018.12.13-07.45.24:858][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.13-07.45.24:870][  0]LogInit: Transaction tracking system initialized
+[2018.12.13-07.45.24:887][  0]BlueprintLog: New page: Editor Load
+[2018.12.13-07.45.24:950][  0]LocalizationService: Localization service is disabled
+[2018.12.13-07.45.25:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/' took 0.03s
+[2018.12.13-07.45.25:497][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.13-07.45.25:497][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.13-07.45.25:497][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.13-07.45.25:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.13-07.45.25:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.13-07.45.25:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.13-07.45.25:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.13-07.45.25:647][  0]SourceControl: Source control is disabled
+[2018.12.13-07.45.25:647][  0]Cmd: MAP LOAD FILE="C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-07.45.25:648][  0]LightingResults: New page: Lighting Build
+[2018.12.13-07.45.25:650][  0]MapCheck: New page: Map Check
+[2018.12.13-07.45.25:651][  0]LightingResults: New page: Lighting Build
+[2018.12.13-07.45.26:166][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.13-07.45.26:176][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.13-07.45.26:198][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-07.45.26:198][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2018.12.13-07.45.26:198][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.551
+[2018.12.13-07.45.26:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-07.45.26:307][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-07.45.26:317][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-07.45.26:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-07.45.26:332][  0]LogCollectionManager: Loaded 0 collections in 0.001099 seconds
+[2018.12.13-07.45.26:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Collections/' took 0.01s
+[2018.12.13-07.45.26:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Developers/kaleb/Collections/' took 0.00s
+[2018.12.13-07.45.26:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Collections/' took 0.00s
+[2018.12.13-07.45.26:348][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.13-07.45.26:359][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2651 classes and 620 folders.
+[2018.12.13-07.45.26:365][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.13-07.45.26:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.13-07.45.26:419][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.13-07.45.26:424][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.13-07.45.26:441][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.13-07.45.26:445][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.13-07.45.26:451][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.13-07.45.26:546][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.13-07.45.26:722][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.13-07.45.26:722][  0]LogLoad: (Engine Initialization) Total time: 9.26 seconds
+[2018.12.13-07.45.26:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.13-07.45.26:737][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.13-07.45.26:783][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.13-07.45.26:907][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-07.45.26:925][  2]LogAssetRegistry: Asset discovery search completed in 5.7263 seconds
+[2018.12.13-07.45.26:927][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.13-07.45.26:927][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2018.12.13-07.45.30:891][269]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.13-07.45.35:401][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.13-07.45.44:862][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-07.45.51:904][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-07.45.51:927][511]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.13-07.46.06:141][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.12.13-07.46.18:061][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-07.51.10:246][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-07.56.06:125][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-07.56.19:993][378]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx)
+[2018.12.13-07.56.20:026][378]LogFbx: Loading FBX Scene from C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx
+[2018.12.13-07.56.20:049][378]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.13-07.56.26:891][378]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.13-07.56.27:091][378]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-07.56.27:144][378]LogFbx: Warning: Triangulating static mesh polySurface2
+[2018.12.13-07.56.27:301][378]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-07.56.27:301][378]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-07.56.27:301][378]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-07.56.27:315][378]LogStaticMesh: Building static mesh NethkenHall_polySurface2...
+[2018.12.13-07.56.27:346][378]LogStaticMesh: Built static mesh [0.03s] /Game/NethkenHall_polySurface2.NethkenHall_polySurface2
+[2018.12.13-07.56.27:354][378]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.12.13-07.56.27:356][378]LogStaticMesh: Building static mesh NethkenHall_pCube1...
+[2018.12.13-07.56.27:356][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube1.NethkenHall_pCube1
+[2018.12.13-07.56.27:363][378]LogFbx: Warning: Triangulating static mesh pCube2
+[2018.12.13-07.56.27:365][378]LogStaticMesh: Building static mesh NethkenHall_pCube2...
+[2018.12.13-07.56.27:366][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube2.NethkenHall_pCube2
+[2018.12.13-07.56.27:367][378]LogStaticMesh: Warning: NethkenHall_pCube2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:367][378]LogStaticMesh: Warning: NethkenHall_pCube2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:372][378]LogFbx: Warning: Triangulating static mesh pCube3
+[2018.12.13-07.56.27:374][378]LogStaticMesh: Building static mesh NethkenHall_pCube3...
+[2018.12.13-07.56.27:375][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube3.NethkenHall_pCube3
+[2018.12.13-07.56.27:375][378]LogStaticMesh: Warning: NethkenHall_pCube3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:375][378]LogStaticMesh: Warning: NethkenHall_pCube3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:387][378]LogFbx: Warning: Triangulating static mesh polySurface3
+[2018.12.13-07.56.27:389][378]LogStaticMesh: Building static mesh NethkenHall_polySurface3...
+[2018.12.13-07.56.27:389][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_polySurface3.NethkenHall_polySurface3
+[2018.12.13-07.56.27:413][378]LogFbx: Warning: Triangulating static mesh polySurface4
+[2018.12.13-07.56.27:415][378]LogStaticMesh: Building static mesh NethkenHall_polySurface4...
+[2018.12.13-07.56.27:416][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_polySurface4.NethkenHall_polySurface4
+[2018.12.13-07.56.27:422][378]LogFbx: Warning: Triangulating static mesh pasted__pCube4
+[2018.12.13-07.56.27:424][378]LogStaticMesh: Building static mesh NethkenHall_pasted__pCube4...
+[2018.12.13-07.56.27:424][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pasted__pCube4.NethkenHall_pasted__pCube4
+[2018.12.13-07.56.27:431][378]LogFbx: Warning: Triangulating static mesh pCube5
+[2018.12.13-07.56.27:433][378]LogStaticMesh: Building static mesh NethkenHall_pCube5...
+[2018.12.13-07.56.27:433][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube5.NethkenHall_pCube5
+[2018.12.13-07.56.27:439][378]LogFbx: Warning: Triangulating static mesh pCube6
+[2018.12.13-07.56.27:441][378]LogStaticMesh: Building static mesh NethkenHall_pCube6...
+[2018.12.13-07.56.27:442][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube6.NethkenHall_pCube6
+[2018.12.13-07.56.27:442][378]LogStaticMesh: Warning: NethkenHall_pCube6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:442][378]LogStaticMesh: Warning: NethkenHall_pCube6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:448][378]LogFbx: Warning: Triangulating static mesh pCube7
+[2018.12.13-07.56.27:449][378]LogStaticMesh: Building static mesh NethkenHall_pCube7...
+[2018.12.13-07.56.27:455][378]LogStaticMesh: Built static mesh [0.01s] /Game/NethkenHall_pCube7.NethkenHall_pCube7
+[2018.12.13-07.56.27:462][378]LogFbx: Warning: Triangulating static mesh pCube8
+[2018.12.13-07.56.27:464][378]LogStaticMesh: Building static mesh NethkenHall_pCube8...
+[2018.12.13-07.56.27:464][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube8.NethkenHall_pCube8
+[2018.12.13-07.56.27:470][378]LogFbx: Warning: Triangulating static mesh pCube9
+[2018.12.13-07.56.27:472][378]LogStaticMesh: Building static mesh NethkenHall_pCube9...
+[2018.12.13-07.56.27:472][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube9.NethkenHall_pCube9
+[2018.12.13-07.56.27:473][378]LogStaticMesh: Warning: NethkenHall_pCube9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:473][378]LogStaticMesh: Warning: NethkenHall_pCube9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:479][378]LogFbx: Warning: Triangulating static mesh pCube10
+[2018.12.13-07.56.27:481][378]LogStaticMesh: Building static mesh NethkenHall_pCube10...
+[2018.12.13-07.56.27:481][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube10.NethkenHall_pCube10
+[2018.12.13-07.56.27:491][378]LogFbx: Warning: Triangulating static mesh pCube11
+[2018.12.13-07.56.27:493][378]LogStaticMesh: Building static mesh NethkenHall_pCube11...
+[2018.12.13-07.56.27:494][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube11.NethkenHall_pCube11
+[2018.12.13-07.56.27:501][378]LogFbx: Warning: Triangulating static mesh pCube12
+[2018.12.13-07.56.27:504][378]LogStaticMesh: Building static mesh NethkenHall_pCube12...
+[2018.12.13-07.56.27:505][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube12.NethkenHall_pCube12
+[2018.12.13-07.56.27:511][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface2
+[2018.12.13-07.56.27:680][378]LogStaticMesh: Building static mesh NethkenHall_polySurface2_1...
+[2018.12.13-07.56.27:708][378]LogStaticMesh: Built static mesh [0.03s] /Game/NethkenHall_polySurface2_1.NethkenHall_polySurface2_1
+[2018.12.13-07.56.27:718][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube1
+[2018.12.13-07.56.27:719][378]LogStaticMesh: Building static mesh NethkenHall_pCube1_1...
+[2018.12.13-07.56.27:720][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube1_1.NethkenHall_pCube1_1
+[2018.12.13-07.56.27:726][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube2
+[2018.12.13-07.56.27:728][378]LogStaticMesh: Building static mesh NethkenHall_pCube2_1...
+[2018.12.13-07.56.27:728][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube2_1.NethkenHall_pCube2_1
+[2018.12.13-07.56.27:729][378]LogStaticMesh: Warning: NethkenHall_pCube2_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:729][378]LogStaticMesh: Warning: NethkenHall_pCube2_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:734][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube3
+[2018.12.13-07.56.27:738][378]LogStaticMesh: Building static mesh NethkenHall_pCube3_1...
+[2018.12.13-07.56.27:739][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube3_1.NethkenHall_pCube3_1
+[2018.12.13-07.56.27:740][378]LogStaticMesh: Warning: NethkenHall_pCube3_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:740][378]LogStaticMesh: Warning: NethkenHall_pCube3_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:746][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface3
+[2018.12.13-07.56.27:748][378]LogStaticMesh: Building static mesh NethkenHall_polySurface3_1...
+[2018.12.13-07.56.27:748][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_polySurface3_1.NethkenHall_polySurface3_1
+[2018.12.13-07.56.27:754][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface4
+[2018.12.13-07.56.27:756][378]LogStaticMesh: Building static mesh NethkenHall_polySurface4_1...
+[2018.12.13-07.56.27:757][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_polySurface4_1.NethkenHall_polySurface4_1
+[2018.12.13-07.56.27:771][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pasted__pCube4
+[2018.12.13-07.56.27:772][378]LogStaticMesh: Building static mesh NethkenHall_pasted__pCube4_1...
+[2018.12.13-07.56.27:773][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pasted__pCube4_1.NethkenHall_pasted__pCube4_1
+[2018.12.13-07.56.27:779][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube5
+[2018.12.13-07.56.27:781][378]LogStaticMesh: Building static mesh NethkenHall_pCube5_1...
+[2018.12.13-07.56.27:782][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube5_1.NethkenHall_pCube5_1
+[2018.12.13-07.56.27:788][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube6
+[2018.12.13-07.56.27:790][378]LogStaticMesh: Building static mesh NethkenHall_pCube6_1...
+[2018.12.13-07.56.27:790][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube6_1.NethkenHall_pCube6_1
+[2018.12.13-07.56.27:791][378]LogStaticMesh: Warning: NethkenHall_pCube6_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:791][378]LogStaticMesh: Warning: NethkenHall_pCube6_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:797][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube7
+[2018.12.13-07.56.27:798][378]LogStaticMesh: Building static mesh NethkenHall_pCube7_1...
+[2018.12.13-07.56.27:799][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube7_1.NethkenHall_pCube7_1
+[2018.12.13-07.56.27:810][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube8
+[2018.12.13-07.56.27:812][378]LogStaticMesh: Building static mesh NethkenHall_pCube8_1...
+[2018.12.13-07.56.27:812][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube8_1.NethkenHall_pCube8_1
+[2018.12.13-07.56.27:819][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube9
+[2018.12.13-07.56.27:821][378]LogStaticMesh: Building static mesh NethkenHall_pCube9_1...
+[2018.12.13-07.56.27:822][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube9_1.NethkenHall_pCube9_1
+[2018.12.13-07.56.27:822][378]LogStaticMesh: Warning: NethkenHall_pCube9_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.56.27:823][378]LogStaticMesh: Warning: NethkenHall_pCube9_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.56.27:829][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube10
+[2018.12.13-07.56.27:831][378]LogStaticMesh: Building static mesh NethkenHall_pCube10_1...
+[2018.12.13-07.56.27:832][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube10_1.NethkenHall_pCube10_1
+[2018.12.13-07.56.27:838][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube11
+[2018.12.13-07.56.27:840][378]LogStaticMesh: Building static mesh NethkenHall_pCube11_1...
+[2018.12.13-07.56.27:841][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube11_1.NethkenHall_pCube11_1
+[2018.12.13-07.56.27:851][378]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube12
+[2018.12.13-07.56.27:853][378]LogStaticMesh: Building static mesh NethkenHall_pCube12_1...
+[2018.12.13-07.56.27:854][378]LogStaticMesh: Built static mesh [0.00s] /Game/NethkenHall_pCube12_1.NethkenHall_pCube12_1
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.13-07.56.27:870][378]FBXImport: Error: NethkenHall_pPlatonic1 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.56.27:870][378]FBXImport: Error: NethkenHall_pPlatonic2 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Error: NethkenHall_pPlatonic1_1 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.56.27:870][378]FBXImport: Error: NethkenHall_pPlatonic2_1 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube2_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube2_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube3_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube3_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube6_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube6_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube9_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.56.27:870][378]FBXImport: Warning: NethkenHall_pCube9_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.56.36:218][ 98]LogSlate: Window 'Message Log' being destroyed
+[2018.12.13-07.56.36:221][ 98]LogSlate: Window 'Message Log' being destroyed
+[2018.12.13-07.56.37:082][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.027
+[2018.12.13-07.56.37:085][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_polySurface2] ([1] browsable assets)...
+[2018.12.13-07.56.37:096][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_polySurface2.NethkenHall_polySurface2]
+[2018.12.13-07.56.37:096][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_polySurface2]
+[2018.12.13-07.56.37:113][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface2_Auto1767CF0D3496905CBF052EBAE7DDE1433.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_polySurface2_Auto1.uasset'
+[2018.12.13-07.56.37:115][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert1] ([1] browsable assets)...
+[2018.12.13-07.56.37:125][179]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert1.lambert1]
+[2018.12.13-07.56.37:126][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert1]
+[2018.12.13-07.56.37:126][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert1" FILE="C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/lambert1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.13-07.56.37:142][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/lambert1_Auto19F3DD5AE45112B80DE84F4A0B4F99EB3.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/lambert1_Auto1.uasset'
+[2018.12.13-07.56.37:143][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube1] ([1] browsable assets)...
+[2018.12.13-07.56.37:153][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube1.NethkenHall_pCube1]
+[2018.12.13-07.56.37:153][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube1]
+[2018.12.13-07.56.37:169][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube1_Auto168503263419FDFE2934734A2CFCC3129.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube1_Auto1.uasset'
+[2018.12.13-07.56.37:170][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube2] ([1] browsable assets)...
+[2018.12.13-07.56.37:181][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube2.NethkenHall_pCube2]
+[2018.12.13-07.56.37:181][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube2]
+[2018.12.13-07.56.37:199][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube2_Auto16ECFBE714D1FC590E9E564A44622ECEA.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube2_Auto1.uasset'
+[2018.12.13-07.56.37:200][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube3] ([1] browsable assets)...
+[2018.12.13-07.56.37:211][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube3.NethkenHall_pCube3]
+[2018.12.13-07.56.37:211][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube3]
+[2018.12.13-07.56.37:227][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube3_Auto19FC94DD64F965039DBF74A8168091231.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube3_Auto1.uasset'
+[2018.12.13-07.56.37:229][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_polySurface3] ([1] browsable assets)...
+[2018.12.13-07.56.37:239][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_polySurface3.NethkenHall_polySurface3]
+[2018.12.13-07.56.37:239][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_polySurface3]
+[2018.12.13-07.56.37:254][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface3_Auto1D703E9CD454840C8CE2805A8397C270E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_polySurface3_Auto1.uasset'
+[2018.12.13-07.56.37:256][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_polySurface4] ([1] browsable assets)...
+[2018.12.13-07.56.37:266][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_polySurface4.NethkenHall_polySurface4]
+[2018.12.13-07.56.37:266][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_polySurface4]
+[2018.12.13-07.56.37:282][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface4_Auto1A9ADEAF843D7E13BE75BC4A89ABBC73E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_polySurface4_Auto1.uasset'
+[2018.12.13-07.56.37:284][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pasted__pCube4] ([1] browsable assets)...
+[2018.12.13-07.56.37:295][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pasted__pCube4.NethkenHall_pasted__pCube4]
+[2018.12.13-07.56.37:295][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pasted__pCube4]
+[2018.12.13-07.56.37:311][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pasted__pCube4_Auto1C92630A24EB680C566EDED9273531CC4.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pasted__pCube4_Auto1.uasset'
+[2018.12.13-07.56.37:312][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube5] ([1] browsable assets)...
+[2018.12.13-07.56.37:322][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube5.NethkenHall_pCube5]
+[2018.12.13-07.56.37:322][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube5]
+[2018.12.13-07.56.37:339][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube5_Auto156BFDBA4488ED3718365F690E5E91A68.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube5_Auto1.uasset'
+[2018.12.13-07.56.37:340][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube6] ([1] browsable assets)...
+[2018.12.13-07.56.37:349][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube6.NethkenHall_pCube6]
+[2018.12.13-07.56.37:349][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube6]
+[2018.12.13-07.56.37:365][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube6_Auto1B87662C34E559D366C4F19B0C8CF0BD2.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube6_Auto1.uasset'
+[2018.12.13-07.56.37:366][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube7] ([1] browsable assets)...
+[2018.12.13-07.56.37:376][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube7.NethkenHall_pCube7]
+[2018.12.13-07.56.37:376][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube7]
+[2018.12.13-07.56.37:394][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube7_Auto1BFB818754F6AB950A9E98C979F4655C6.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube7_Auto1.uasset'
+[2018.12.13-07.56.37:395][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube8] ([1] browsable assets)...
+[2018.12.13-07.56.37:405][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube8.NethkenHall_pCube8]
+[2018.12.13-07.56.37:405][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube8]
+[2018.12.13-07.56.37:422][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube8_Auto1FF059BB34F432495D47DDBB2E8DC35AC.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube8_Auto1.uasset'
+[2018.12.13-07.56.37:423][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube9] ([1] browsable assets)...
+[2018.12.13-07.56.37:433][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube9.NethkenHall_pCube9]
+[2018.12.13-07.56.37:433][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube9]
+[2018.12.13-07.56.37:449][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube9_Auto17A7DB5EA427EF91B6F0BF79C5F6D3C69.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube9_Auto1.uasset'
+[2018.12.13-07.56.37:450][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube10] ([1] browsable assets)...
+[2018.12.13-07.56.37:460][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube10.NethkenHall_pCube10]
+[2018.12.13-07.56.37:460][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube10]
+[2018.12.13-07.56.37:476][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube10_Auto1CD28C96D48A691797396548510DCEA38.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube10_Auto1.uasset'
+[2018.12.13-07.56.37:479][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube11] ([1] browsable assets)...
+[2018.12.13-07.56.37:490][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube11.NethkenHall_pCube11]
+[2018.12.13-07.56.37:490][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube11]
+[2018.12.13-07.56.37:506][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube11_Auto1F0DBAD154756E206BF9127ACE4E617D5.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube11_Auto1.uasset'
+[2018.12.13-07.56.37:508][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube12] ([1] browsable assets)...
+[2018.12.13-07.56.37:517][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube12.NethkenHall_pCube12]
+[2018.12.13-07.56.37:517][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube12]
+[2018.12.13-07.56.37:535][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube12_Auto19AE122AF4ADE395323FB64999C69C392.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube12_Auto1.uasset'
+[2018.12.13-07.56.37:537][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_polySurface2_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:547][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_polySurface2_1.NethkenHall_polySurface2_1]
+[2018.12.13-07.56.37:547][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_polySurface2_1]
+[2018.12.13-07.56.37:564][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface2_1_Auto1CF5F5DA1465970752270F38113778008.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_polySurface2_1_Auto1.uasset'
+[2018.12.13-07.56.37:565][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube1_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:575][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube1_1.NethkenHall_pCube1_1]
+[2018.12.13-07.56.37:575][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube1_1]
+[2018.12.13-07.56.37:592][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube1_1_Auto11B133DEA4B55B2B020071E8B2BFE7DF8.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube1_1_Auto1.uasset'
+[2018.12.13-07.56.37:593][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube2_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:602][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube2_1.NethkenHall_pCube2_1]
+[2018.12.13-07.56.37:603][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube2_1]
+[2018.12.13-07.56.37:620][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube2_1_Auto1EC65812947EA21972B149682709AD04A.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube2_1_Auto1.uasset'
+[2018.12.13-07.56.37:621][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube3_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:631][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube3_1.NethkenHall_pCube3_1]
+[2018.12.13-07.56.37:631][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube3_1]
+[2018.12.13-07.56.37:648][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube3_1_Auto1B1DBEABB4897EEF6FD6401A8F78DA0B4.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube3_1_Auto1.uasset'
+[2018.12.13-07.56.37:649][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_polySurface3_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:659][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_polySurface3_1.NethkenHall_polySurface3_1]
+[2018.12.13-07.56.37:659][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_polySurface3_1]
+[2018.12.13-07.56.37:675][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface3_1_Auto1D2DA82154A0588844A80F894E5E667A3.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_polySurface3_1_Auto1.uasset'
+[2018.12.13-07.56.37:676][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_polySurface4_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:686][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_polySurface4_1.NethkenHall_polySurface4_1]
+[2018.12.13-07.56.37:686][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_polySurface4_1]
+[2018.12.13-07.56.37:704][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface4_1_Auto1093CCD65493C643D39CDDF93EE97E881.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_polySurface4_1_Auto1.uasset'
+[2018.12.13-07.56.37:705][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pasted__pCube4_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:715][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pasted__pCube4_1.NethkenHall_pasted__pCube4_1]
+[2018.12.13-07.56.37:715][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pasted__pCube4_1]
+[2018.12.13-07.56.37:731][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pasted__pCube4_1_AutF2BAADBF4659E0D3231F81B023BC89BF.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pasted__pCube4_1_Auto1.uasset'
+[2018.12.13-07.56.37:732][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube5_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:742][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube5_1.NethkenHall_pCube5_1]
+[2018.12.13-07.56.37:742][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube5_1]
+[2018.12.13-07.56.37:757][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube5_1_Auto1534AF0C442D743CF1E9A1F877C32ABBD.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube5_1_Auto1.uasset'
+[2018.12.13-07.56.37:760][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube6_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:770][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube6_1.NethkenHall_pCube6_1]
+[2018.12.13-07.56.37:770][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube6_1]
+[2018.12.13-07.56.37:785][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube6_1_Auto160568C974CE450D92498BFAB12B8C09C.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube6_1_Auto1.uasset'
+[2018.12.13-07.56.37:786][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube7_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:796][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube7_1.NethkenHall_pCube7_1]
+[2018.12.13-07.56.37:796][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube7_1]
+[2018.12.13-07.56.37:814][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube7_1_Auto1462A36CF466193C1DD2124A9897C1143.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube7_1_Auto1.uasset'
+[2018.12.13-07.56.37:815][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube8_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:825][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube8_1.NethkenHall_pCube8_1]
+[2018.12.13-07.56.37:825][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube8_1]
+[2018.12.13-07.56.37:843][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube8_1_Auto18DA7A7684C590EF0792236929EA4E1D0.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube8_1_Auto1.uasset'
+[2018.12.13-07.56.37:844][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube9_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:854][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube9_1.NethkenHall_pCube9_1]
+[2018.12.13-07.56.37:854][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube9_1]
+[2018.12.13-07.56.37:870][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube9_1_Auto1EA779A3445CA707336DBEB86A75496B9.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube9_1_Auto1.uasset'
+[2018.12.13-07.56.37:871][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube10_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:881][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube10_1.NethkenHall_pCube10_1]
+[2018.12.13-07.56.37:881][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube10_1]
+[2018.12.13-07.56.37:898][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube10_1_Auto1F2B11242471E80C5642E9C8B4EEEF03D.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube10_1_Auto1.uasset'
+[2018.12.13-07.56.37:900][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube11_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:909][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube11_1.NethkenHall_pCube11_1]
+[2018.12.13-07.56.37:909][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube11_1]
+[2018.12.13-07.56.37:925][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube11_1_Auto1F1746CE2481D0EE5902ED4915E1C341F.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube11_1_Auto1.uasset'
+[2018.12.13-07.56.37:926][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NethkenHall_pCube12_1] ([1] browsable assets)...
+[2018.12.13-07.56.37:936][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NethkenHall_pCube12_1.NethkenHall_pCube12_1]
+[2018.12.13-07.56.37:936][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/NethkenHall_pCube12_1]
+[2018.12.13-07.56.37:954][179]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube12_1_Auto155F1C28F4514D092C6ADB997D831F12E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NethkenHall_pCube12_1_Auto1.uasset'
+[2018.12.13-07.56.37:955][179]LogFileHelpers: Auto-saving content packages took 0.871
+[2018.12.13-07.56.38:734][260]Cmd: TRANSACTION UNDO
+[2018.12.13-07.56.38:734][260]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.13-07.56.39:660][342]Cmd: TRANSACTION UNDO
+[2018.12.13-07.56.39:660][342]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.13-07.57.00:383][132]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.13-07.57.14:904][646]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx)
+[2018.12.13-07.57.14:916][646]LogFbx: Loading FBX Scene from C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx
+[2018.12.13-07.57.14:935][646]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.13-07.57.16:131][646]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.13-07.57.16:155][646]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-07.57.16:169][646]LogFbx: Warning: Triangulating static mesh polySurface2
+[2018.12.13-07.57.16:316][646]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-07.57.16:316][646]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-07.57.16:316][646]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-07.57.16:330][646]LogStaticMesh: Building static mesh NethkenHall_polySurface2...
+[2018.12.13-07.57.16:360][646]LogStaticMesh: Built static mesh [0.03s] /Game/NathkenHall/NethkenHall_polySurface2.NethkenHall_polySurface2
+[2018.12.13-07.57.16:372][646]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.12.13-07.57.16:375][646]LogStaticMesh: Building static mesh NethkenHall_pCube1...
+[2018.12.13-07.57.16:376][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube1.NethkenHall_pCube1
+[2018.12.13-07.57.16:382][646]LogFbx: Warning: Triangulating static mesh pCube2
+[2018.12.13-07.57.16:384][646]LogStaticMesh: Building static mesh NethkenHall_pCube2...
+[2018.12.13-07.57.16:385][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube2.NethkenHall_pCube2
+[2018.12.13-07.57.16:385][646]LogStaticMesh: Warning: NethkenHall_pCube2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:385][646]LogStaticMesh: Warning: NethkenHall_pCube2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:391][646]LogFbx: Warning: Triangulating static mesh pCube3
+[2018.12.13-07.57.16:393][646]LogStaticMesh: Building static mesh NethkenHall_pCube3...
+[2018.12.13-07.57.16:394][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube3.NethkenHall_pCube3
+[2018.12.13-07.57.16:394][646]LogStaticMesh: Warning: NethkenHall_pCube3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:394][646]LogStaticMesh: Warning: NethkenHall_pCube3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:401][646]LogFbx: Warning: Triangulating static mesh polySurface3
+[2018.12.13-07.57.16:403][646]LogStaticMesh: Building static mesh NethkenHall_polySurface3...
+[2018.12.13-07.57.16:403][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface3.NethkenHall_polySurface3
+[2018.12.13-07.57.16:418][646]LogFbx: Warning: Triangulating static mesh polySurface4
+[2018.12.13-07.57.16:420][646]LogStaticMesh: Building static mesh NethkenHall_polySurface4...
+[2018.12.13-07.57.16:420][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface4.NethkenHall_polySurface4
+[2018.12.13-07.57.16:427][646]LogFbx: Warning: Triangulating static mesh pasted__pCube4
+[2018.12.13-07.57.16:428][646]LogStaticMesh: Building static mesh NethkenHall_pasted__pCube4...
+[2018.12.13-07.57.16:429][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pasted__pCube4.NethkenHall_pasted__pCube4
+[2018.12.13-07.57.16:435][646]LogFbx: Warning: Triangulating static mesh pCube5
+[2018.12.13-07.57.16:437][646]LogStaticMesh: Building static mesh NethkenHall_pCube5...
+[2018.12.13-07.57.16:438][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube5.NethkenHall_pCube5
+[2018.12.13-07.57.16:444][646]LogFbx: Warning: Triangulating static mesh pCube6
+[2018.12.13-07.57.16:446][646]LogStaticMesh: Building static mesh NethkenHall_pCube6...
+[2018.12.13-07.57.16:447][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube6.NethkenHall_pCube6
+[2018.12.13-07.57.16:447][646]LogStaticMesh: Warning: NethkenHall_pCube6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:447][646]LogStaticMesh: Warning: NethkenHall_pCube6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:468][646]LogFbx: Warning: Triangulating static mesh pCube7
+[2018.12.13-07.57.16:475][646]LogStaticMesh: Building static mesh NethkenHall_pCube7...
+[2018.12.13-07.57.16:477][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube7.NethkenHall_pCube7
+[2018.12.13-07.57.16:484][646]LogFbx: Warning: Triangulating static mesh pCube8
+[2018.12.13-07.57.16:485][646]LogStaticMesh: Building static mesh NethkenHall_pCube8...
+[2018.12.13-07.57.16:486][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube8.NethkenHall_pCube8
+[2018.12.13-07.57.16:493][646]LogFbx: Warning: Triangulating static mesh pCube9
+[2018.12.13-07.57.16:495][646]LogStaticMesh: Building static mesh NethkenHall_pCube9...
+[2018.12.13-07.57.16:496][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube9.NethkenHall_pCube9
+[2018.12.13-07.57.16:497][646]LogStaticMesh: Warning: NethkenHall_pCube9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:497][646]LogStaticMesh: Warning: NethkenHall_pCube9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:502][646]LogFbx: Warning: Triangulating static mesh pCube10
+[2018.12.13-07.57.16:504][646]LogStaticMesh: Building static mesh NethkenHall_pCube10...
+[2018.12.13-07.57.16:505][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube10.NethkenHall_pCube10
+[2018.12.13-07.57.16:511][646]LogFbx: Warning: Triangulating static mesh pCube11
+[2018.12.13-07.57.16:519][646]LogStaticMesh: Building static mesh NethkenHall_pCube11...
+[2018.12.13-07.57.16:520][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube11.NethkenHall_pCube11
+[2018.12.13-07.57.16:530][646]LogFbx: Warning: Triangulating static mesh pCube12
+[2018.12.13-07.57.16:532][646]LogStaticMesh: Building static mesh NethkenHall_pCube12...
+[2018.12.13-07.57.16:532][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube12.NethkenHall_pCube12
+[2018.12.13-07.57.16:541][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface2
+[2018.12.13-07.57.16:711][646]LogStaticMesh: Building static mesh NethkenHall_polySurface2_1...
+[2018.12.13-07.57.16:740][646]LogStaticMesh: Built static mesh [0.03s] /Game/NathkenHall/NethkenHall_polySurface2_1.NethkenHall_polySurface2_1
+[2018.12.13-07.57.16:749][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube1
+[2018.12.13-07.57.16:751][646]LogStaticMesh: Building static mesh NethkenHall_pCube1_1...
+[2018.12.13-07.57.16:751][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube1_1.NethkenHall_pCube1_1
+[2018.12.13-07.57.16:758][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube2
+[2018.12.13-07.57.16:760][646]LogStaticMesh: Building static mesh NethkenHall_pCube2_1...
+[2018.12.13-07.57.16:761][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube2_1.NethkenHall_pCube2_1
+[2018.12.13-07.57.16:761][646]LogStaticMesh: Warning: NethkenHall_pCube2_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:761][646]LogStaticMesh: Warning: NethkenHall_pCube2_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:775][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube3
+[2018.12.13-07.57.16:776][646]LogStaticMesh: Building static mesh NethkenHall_pCube3_1...
+[2018.12.13-07.57.16:777][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube3_1.NethkenHall_pCube3_1
+[2018.12.13-07.57.16:777][646]LogStaticMesh: Warning: NethkenHall_pCube3_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:778][646]LogStaticMesh: Warning: NethkenHall_pCube3_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:783][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface3
+[2018.12.13-07.57.16:785][646]LogStaticMesh: Building static mesh NethkenHall_polySurface3_1...
+[2018.12.13-07.57.16:786][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface3_1.NethkenHall_polySurface3_1
+[2018.12.13-07.57.16:794][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface4
+[2018.12.13-07.57.16:796][646]LogStaticMesh: Building static mesh NethkenHall_polySurface4_1...
+[2018.12.13-07.57.16:797][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface4_1.NethkenHall_polySurface4_1
+[2018.12.13-07.57.16:803][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pasted__pCube4
+[2018.12.13-07.57.16:805][646]LogStaticMesh: Building static mesh NethkenHall_pasted__pCube4_1...
+[2018.12.13-07.57.16:806][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pasted__pCube4_1.NethkenHall_pasted__pCube4_1
+[2018.12.13-07.57.16:811][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube5
+[2018.12.13-07.57.16:813][646]LogStaticMesh: Building static mesh NethkenHall_pCube5_1...
+[2018.12.13-07.57.16:814][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube5_1.NethkenHall_pCube5_1
+[2018.12.13-07.57.16:820][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube6
+[2018.12.13-07.57.16:822][646]LogStaticMesh: Building static mesh NethkenHall_pCube6_1...
+[2018.12.13-07.57.16:823][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube6_1.NethkenHall_pCube6_1
+[2018.12.13-07.57.16:824][646]LogStaticMesh: Warning: NethkenHall_pCube6_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:824][646]LogStaticMesh: Warning: NethkenHall_pCube6_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:829][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube7
+[2018.12.13-07.57.16:830][646]LogStaticMesh: Building static mesh NethkenHall_pCube7_1...
+[2018.12.13-07.57.16:831][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube7_1.NethkenHall_pCube7_1
+[2018.12.13-07.57.16:838][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube8
+[2018.12.13-07.57.16:840][646]LogStaticMesh: Building static mesh NethkenHall_pCube8_1...
+[2018.12.13-07.57.16:841][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube8_1.NethkenHall_pCube8_1
+[2018.12.13-07.57.16:846][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube9
+[2018.12.13-07.57.16:848][646]LogStaticMesh: Building static mesh NethkenHall_pCube9_1...
+[2018.12.13-07.57.16:849][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube9_1.NethkenHall_pCube9_1
+[2018.12.13-07.57.16:849][646]LogStaticMesh: Warning: NethkenHall_pCube9_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-07.57.16:849][646]LogStaticMesh: Warning: NethkenHall_pCube9_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-07.57.16:864][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube10
+[2018.12.13-07.57.16:866][646]LogStaticMesh: Building static mesh NethkenHall_pCube10_1...
+[2018.12.13-07.57.16:867][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube10_1.NethkenHall_pCube10_1
+[2018.12.13-07.57.16:873][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube11
+[2018.12.13-07.57.16:875][646]LogStaticMesh: Building static mesh NethkenHall_pCube11_1...
+[2018.12.13-07.57.16:876][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube11_1.NethkenHall_pCube11_1
+[2018.12.13-07.57.16:882][646]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube12
+[2018.12.13-07.57.16:883][646]LogStaticMesh: Building static mesh NethkenHall_pCube12_1...
+[2018.12.13-07.57.16:884][646]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube12_1.NethkenHall_pCube12_1
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.13-07.57.16:905][646]FBXImport: Error: NethkenHall_pPlatonic1 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.57.16:905][646]FBXImport: Error: NethkenHall_pPlatonic2 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Error: NethkenHall_pPlatonic1_1 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.57.16:905][646]FBXImport: Error: NethkenHall_pPlatonic2_1 could not be created because all of its polygons are degenerate. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube2_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube2_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube3_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube3_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube6_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube6_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube9_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-07.57.16:905][646]FBXImport: Warning: NethkenHall_pCube9_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-07.57.20:475][974]LogSlate: Window 'Message Log' being destroyed
+[2018.12.13-07.57.20:478][974]LogSlate: Window 'Message Log' being destroyed
+[2018.12.13-07.57.29:542][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.12.13-07.57.30:284][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall10)
+[2018.12.13-07.57.30:867][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall9)
+[2018.12.13-07.57.31:511][223]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall11)
+[2018.12.13-07.57.32:096][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.12.13-07.57.33:055][388]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.12.13-07.57.33:856][475]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.12.13-07.57.34:484][540]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.12.13-07.57.35:100][604]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (CubeMesh)
+[2018.12.13-07.57.36:112][714]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.12.13-07.57.39:861][141]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart)
+[2018.12.13-07.57.39:868][141]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.13-07.57.41:522][334]Cmd: DELETE
+[2018.12.13-07.57.41:522][334]Cmd: ACTOR DELETE
+[2018.12.13-07.57.41:535][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:536][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:536][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:536][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:536][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:537][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:537][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:537][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:537][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:537][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.41:538][334]LogEditorActor: Deleted Actor: PlayerStart
+[2018.12.13-07.57.41:567][334]LogEditorActor: Deleted 11 Actors (0.045 secs)
+[2018.12.13-07.57.43:449][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.13-07.57.44:848][716]Cmd: DELETE
+[2018.12.13-07.57.44:848][716]Cmd: ACTOR DELETE
+[2018.12.13-07.57.44:851][716]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-07.57.44:874][716]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.12.13-07.57.54:956][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-07.57.55:727][951]LogActorFactory: Actor Factory created NethkenHall_polySurface2
+[2018.12.13-07.57.58:037][224]LogActorFactory: Actor Factory created NethkenHall_polySurface2
+[2018.12.13-07.58.32:257][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.00.01:844][302]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.13-08.00.07:107][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.12.13-08.00.09:355][717]Cmd: ACTOR SELECT ALL
+[2018.12.13-08.00.21:238][125]Cmd: DELETE
+[2018.12.13-08.00.21:238][125]Cmd: ACTOR DELETE
+[2018.12.13-08.00.21:239][125]LogEditorActor: Cannot delete special actor Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Brush_0
+[2018.12.13-08.00.21:242][125]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.12.13-08.00.21:243][125]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2018.12.13-08.00.21:243][125]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.12.13-08.00.21:245][125]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.12.13-08.00.21:245][125]LogEditorActor: Deleted Actor: DocumentationActor
+[2018.12.13-08.00.21:245][125]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2018.12.13-08.00.21:248][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-08.00.25:734][125]LogSlate: Window 'Message' being destroyed
+[2018.12.13-08.00.25:737][125]LogEditorActor: Deleted Actor: PostProcessVolume
+[2018.12.13-08.00.25:738][125]LogEditorActor: Deleted Actor: SkyLight
+[2018.12.13-08.00.25:738][125]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.12.13-08.00.25:739][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.00.25:772][125]LogEditorActor: Deleted 9 Actors (4.533 secs)
+[2018.12.13-08.00.26:737][238]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.953 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.13-08.00.27:854][371]Cmd: TRANSACTION UNDO
+[2018.12.13-08.00.27:854][371]LogEditorTransaction: Undo Delete Actors
+[2018.12.13-08.00.29:486][557]Cmd: TRANSACTION UNDO
+[2018.12.13-08.00.29:486][557]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.13-08.00.29:904][600]Cmd: TRANSACTION UNDO
+[2018.12.13-08.00.29:904][600]LogEditorTransaction: Undo Select All
+[2018.12.13-08.00.30:364][647]Cmd: TRANSACTION UNDO
+[2018.12.13-08.00.30:364][647]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.13-08.00.37:217][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.00.38:666][472]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx)
+[2018.12.13-08.00.38:677][472]LogFbx: Loading FBX Scene from C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx
+[2018.12.13-08.00.38:697][472]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.13-08.01.09:526][472]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.13-08.01.09:561][472]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-08.01.09:575][472]LogFbx: Warning: Triangulating static mesh polySurface2
+[2018.12.13-08.01.09:723][472]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-08.01.09:723][472]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-08.01.09:723][472]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-08.01.09:736][472]LogStaticMesh: Building static mesh NethkenHall_polySurface2...
+[2018.12.13-08.01.09:766][472]LogStaticMesh: Built static mesh [0.03s] /Game/NathkenHall/NethkenHall_polySurface2.NethkenHall_polySurface2
+[2018.12.13-08.01.09:786][472]LogStaticMesh: Building static mesh NethkenHall_pPlatonic1...
+[2018.12.13-08.01.09:787][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pPlatonic1.NethkenHall_pPlatonic1
+[2018.12.13-08.01.09:788][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic1.NethkenHall_pPlatonic1.
+[2018.12.13-08.01.09:788][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic1.NethkenHall_pPlatonic1:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.09:790][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic1.NethkenHall_pPlatonic1.
+[2018.12.13-08.01.09:791][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic1.NethkenHall_pPlatonic1:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.09:795][472]LogStaticMesh: Building static mesh NethkenHall_pPlatonic2...
+[2018.12.13-08.01.09:796][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pPlatonic2.NethkenHall_pPlatonic2
+[2018.12.13-08.01.09:796][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic2.NethkenHall_pPlatonic2.
+[2018.12.13-08.01.09:796][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic2.NethkenHall_pPlatonic2:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.09:798][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic2.NethkenHall_pPlatonic2.
+[2018.12.13-08.01.09:798][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic2.NethkenHall_pPlatonic2:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.09:801][472]LogFbx: Warning: Triangulating static mesh pCube1
+[2018.12.13-08.01.09:802][472]LogStaticMesh: Building static mesh NethkenHall_pCube1...
+[2018.12.13-08.01.09:803][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube1.NethkenHall_pCube1
+[2018.12.13-08.01.09:807][472]LogFbx: Warning: Triangulating static mesh pCube2
+[2018.12.13-08.01.09:809][472]LogStaticMesh: Building static mesh NethkenHall_pCube2...
+[2018.12.13-08.01.09:810][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube2.NethkenHall_pCube2
+[2018.12.13-08.01.09:810][472]LogStaticMesh: Warning: NethkenHall_pCube2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.09:810][472]LogStaticMesh: Warning: NethkenHall_pCube2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.09:814][472]LogFbx: Warning: Triangulating static mesh pCube3
+[2018.12.13-08.01.09:816][472]LogStaticMesh: Building static mesh NethkenHall_pCube3...
+[2018.12.13-08.01.09:817][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube3.NethkenHall_pCube3
+[2018.12.13-08.01.09:817][472]LogStaticMesh: Warning: NethkenHall_pCube3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.09:817][472]LogStaticMesh: Warning: NethkenHall_pCube3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.09:825][472]LogFbx: Warning: Triangulating static mesh polySurface3
+[2018.12.13-08.01.09:827][472]LogStaticMesh: Building static mesh NethkenHall_polySurface3...
+[2018.12.13-08.01.09:827][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface3.NethkenHall_polySurface3
+[2018.12.13-08.01.09:831][472]LogFbx: Warning: Triangulating static mesh polySurface4
+[2018.12.13-08.01.09:833][472]LogStaticMesh: Building static mesh NethkenHall_polySurface4...
+[2018.12.13-08.01.09:834][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface4.NethkenHall_polySurface4
+[2018.12.13-08.01.09:839][472]LogFbx: Warning: Triangulating static mesh pasted__pCube4
+[2018.12.13-08.01.09:840][472]LogStaticMesh: Building static mesh NethkenHall_pasted__pCube4...
+[2018.12.13-08.01.09:841][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pasted__pCube4.NethkenHall_pasted__pCube4
+[2018.12.13-08.01.09:845][472]LogFbx: Warning: Triangulating static mesh pCube5
+[2018.12.13-08.01.09:847][472]LogStaticMesh: Building static mesh NethkenHall_pCube5...
+[2018.12.13-08.01.09:848][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube5.NethkenHall_pCube5
+[2018.12.13-08.01.09:852][472]LogFbx: Warning: Triangulating static mesh pCube6
+[2018.12.13-08.01.09:854][472]LogStaticMesh: Building static mesh NethkenHall_pCube6...
+[2018.12.13-08.01.09:855][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube6.NethkenHall_pCube6
+[2018.12.13-08.01.09:855][472]LogStaticMesh: Warning: NethkenHall_pCube6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.09:855][472]LogStaticMesh: Warning: NethkenHall_pCube6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.09:863][472]LogFbx: Warning: Triangulating static mesh pCube7
+[2018.12.13-08.01.09:864][472]LogStaticMesh: Building static mesh NethkenHall_pCube7...
+[2018.12.13-08.01.09:865][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube7.NethkenHall_pCube7
+[2018.12.13-08.01.09:872][472]LogFbx: Warning: Triangulating static mesh pCube8
+[2018.12.13-08.01.09:873][472]LogStaticMesh: Building static mesh NethkenHall_pCube8...
+[2018.12.13-08.01.09:874][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube8.NethkenHall_pCube8
+[2018.12.13-08.01.09:878][472]LogFbx: Warning: Triangulating static mesh pCube9
+[2018.12.13-08.01.09:883][472]LogStaticMesh: Building static mesh NethkenHall_pCube9...
+[2018.12.13-08.01.09:884][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube9.NethkenHall_pCube9
+[2018.12.13-08.01.09:884][472]LogStaticMesh: Warning: NethkenHall_pCube9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.09:884][472]LogStaticMesh: Warning: NethkenHall_pCube9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.09:889][472]LogFbx: Warning: Triangulating static mesh pCube10
+[2018.12.13-08.01.09:891][472]LogStaticMesh: Building static mesh NethkenHall_pCube10...
+[2018.12.13-08.01.09:891][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube10.NethkenHall_pCube10
+[2018.12.13-08.01.09:895][472]LogFbx: Warning: Triangulating static mesh pCube11
+[2018.12.13-08.01.09:897][472]LogStaticMesh: Building static mesh NethkenHall_pCube11...
+[2018.12.13-08.01.09:898][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube11.NethkenHall_pCube11
+[2018.12.13-08.01.09:902][472]LogFbx: Warning: Triangulating static mesh pCube12
+[2018.12.13-08.01.09:904][472]LogStaticMesh: Building static mesh NethkenHall_pCube12...
+[2018.12.13-08.01.09:905][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube12.NethkenHall_pCube12
+[2018.12.13-08.01.09:909][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface2
+[2018.12.13-08.01.10:125][472]LogStaticMesh: Building static mesh NethkenHall_polySurface2_1...
+[2018.12.13-08.01.10:154][472]LogStaticMesh: Built static mesh [0.03s] /Game/NathkenHall/NethkenHall_polySurface2_1.NethkenHall_polySurface2_1
+[2018.12.13-08.01.10:162][472]LogStaticMesh: Building static mesh NethkenHall_pPlatonic1_1...
+[2018.12.13-08.01.10:163][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pPlatonic1_1.NethkenHall_pPlatonic1_1
+[2018.12.13-08.01.10:163][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic1_1.NethkenHall_pPlatonic1_1.
+[2018.12.13-08.01.10:163][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic1_1.NethkenHall_pPlatonic1_1:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.10:165][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic1_1.NethkenHall_pPlatonic1_1.
+[2018.12.13-08.01.10:165][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic1_1.NethkenHall_pPlatonic1_1:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.10:169][472]LogStaticMesh: Building static mesh NethkenHall_pPlatonic2_1...
+[2018.12.13-08.01.10:170][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pPlatonic2_1.NethkenHall_pPlatonic2_1
+[2018.12.13-08.01.10:170][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic2_1.NethkenHall_pPlatonic2_1.
+[2018.12.13-08.01.10:170][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic2_1.NethkenHall_pPlatonic2_1:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.10:172][472]LogPhysics: Warning: Failed to cook TriMesh: /Game/NathkenHall/NethkenHall_pPlatonic2_1.NethkenHall_pPlatonic2_1.
+[2018.12.13-08.01.10:173][472]LogPhysics: Warning: Attempt to build physics data for /Game/NathkenHall/NethkenHall_pPlatonic2_1.NethkenHall_pPlatonic2_1:BodySetup_0 when we are unable to.
+[2018.12.13-08.01.10:176][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube1
+[2018.12.13-08.01.10:177][472]LogStaticMesh: Building static mesh NethkenHall_pCube1_1...
+[2018.12.13-08.01.10:178][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube1_1.NethkenHall_pCube1_1
+[2018.12.13-08.01.10:182][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube2
+[2018.12.13-08.01.10:184][472]LogStaticMesh: Building static mesh NethkenHall_pCube2_1...
+[2018.12.13-08.01.10:185][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube2_1.NethkenHall_pCube2_1
+[2018.12.13-08.01.10:185][472]LogStaticMesh: Warning: NethkenHall_pCube2_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.10:185][472]LogStaticMesh: Warning: NethkenHall_pCube2_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.10:189][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube3
+[2018.12.13-08.01.10:192][472]LogStaticMesh: Building static mesh NethkenHall_pCube3_1...
+[2018.12.13-08.01.10:192][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube3_1.NethkenHall_pCube3_1
+[2018.12.13-08.01.10:193][472]LogStaticMesh: Warning: NethkenHall_pCube3_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.10:193][472]LogStaticMesh: Warning: NethkenHall_pCube3_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.10:197][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface3
+[2018.12.13-08.01.10:199][472]LogStaticMesh: Building static mesh NethkenHall_polySurface3_1...
+[2018.12.13-08.01.10:200][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface3_1.NethkenHall_polySurface3_1
+[2018.12.13-08.01.10:204][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:polySurface4
+[2018.12.13-08.01.10:206][472]LogStaticMesh: Building static mesh NethkenHall_polySurface4_1...
+[2018.12.13-08.01.10:207][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_polySurface4_1.NethkenHall_polySurface4_1
+[2018.12.13-08.01.10:211][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pasted__pCube4
+[2018.12.13-08.01.10:213][472]LogStaticMesh: Building static mesh NethkenHall_pasted__pCube4_1...
+[2018.12.13-08.01.10:214][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pasted__pCube4_1.NethkenHall_pasted__pCube4_1
+[2018.12.13-08.01.10:218][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube5
+[2018.12.13-08.01.10:220][472]LogStaticMesh: Building static mesh NethkenHall_pCube5_1...
+[2018.12.13-08.01.10:221][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube5_1.NethkenHall_pCube5_1
+[2018.12.13-08.01.10:225][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube6
+[2018.12.13-08.01.10:228][472]LogStaticMesh: Building static mesh NethkenHall_pCube6_1...
+[2018.12.13-08.01.10:228][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube6_1.NethkenHall_pCube6_1
+[2018.12.13-08.01.10:229][472]LogStaticMesh: Warning: NethkenHall_pCube6_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.10:229][472]LogStaticMesh: Warning: NethkenHall_pCube6_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.10:233][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube7
+[2018.12.13-08.01.10:234][472]LogStaticMesh: Building static mesh NethkenHall_pCube7_1...
+[2018.12.13-08.01.10:235][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube7_1.NethkenHall_pCube7_1
+[2018.12.13-08.01.10:239][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube8
+[2018.12.13-08.01.10:241][472]LogStaticMesh: Building static mesh NethkenHall_pCube8_1...
+[2018.12.13-08.01.10:241][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube8_1.NethkenHall_pCube8_1
+[2018.12.13-08.01.10:245][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube9
+[2018.12.13-08.01.10:247][472]LogStaticMesh: Building static mesh NethkenHall_pCube9_1...
+[2018.12.13-08.01.10:248][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube9_1.NethkenHall_pCube9_1
+[2018.12.13-08.01.10:248][472]LogStaticMesh: Warning: NethkenHall_pCube9_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.12.13-08.01.10:248][472]LogStaticMesh: Warning: NethkenHall_pCube9_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.12.13-08.01.10:252][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube10
+[2018.12.13-08.01.10:254][472]LogStaticMesh: Building static mesh NethkenHall_pCube10_1...
+[2018.12.13-08.01.10:255][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube10_1.NethkenHall_pCube10_1
+[2018.12.13-08.01.10:259][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube11
+[2018.12.13-08.01.10:261][472]LogStaticMesh: Building static mesh NethkenHall_pCube11_1...
+[2018.12.13-08.01.10:262][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube11_1.NethkenHall_pCube11_1
+[2018.12.13-08.01.10:266][472]LogFbx: Warning: Triangulating static mesh nethkenbuilding:pCube12
+[2018.12.13-08.01.10:267][472]LogStaticMesh: Building static mesh NethkenHall_pCube12_1...
+[2018.12.13-08.01.10:268][472]LogStaticMesh: Built static mesh [0.00s] /Game/NathkenHall/NethkenHall_pCube12_1.NethkenHall_pCube12_1
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube2_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube2_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube3_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube3_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube6_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube6_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube9_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.12.13-08.01.10:278][472]FBXImport: Warning: NethkenHall_pCube9_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.12.13-08.01.15:872][961]LogSlate: Window 'Message Log' being destroyed
+[2018.12.13-08.01.15:876][961]LogSlate: Window 'Message Log' being destroyed
+[2018.12.13-08.01.21:967][484]LogActorFactory: Actor Factory created NethkenHall_polySurface2
+[2018.12.13-08.01.23:083][597]LogActorFactory: Actor Factory created NethkenHall_polySurface2
+[2018.12.13-08.01.54:444][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.01.54:826][815]LogActorFactory: Actor Factory created NethkenHall_pasted__pCube4
+[2018.12.13-08.01.59:335][262]LogActorFactory: Actor Factory created NethkenHall_pasted__pCube4
+[2018.12.13-08.02.00:861][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.02.01:097][428]LogActorFactory: Actor Factory created NethkenHall_pasted__pCube4_1
+[2018.12.13-08.02.05:834][887]LogActorFactory: Actor Factory created NethkenHall_pasted__pCube4_1
+[2018.12.13-08.02.21:109][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall_pasted__pCube4_1)
+[2018.12.13-08.02.51:279][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.02.51:575][811]LogActorFactory: Actor Factory created NethkenHall_pCube1
+[2018.12.13-08.02.59:688][634]LogActorFactory: Actor Factory created NethkenHall_pCube1
+[2018.12.13-08.03.17:847][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.03.18:072][590]LogActorFactory: Actor Factory created NethkenHall_pCube1_1
+[2018.12.13-08.03.22:951][ 82]LogActorFactory: Actor Factory created NethkenHall_pCube1_1
+[2018.12.13-08.03.29:344][787]Cmd: DELETE
+[2018.12.13-08.03.29:344][787]Cmd: ACTOR DELETE
+[2018.12.13-08.03.29:350][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.03.29:379][787]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.12.13-08.03.30:860][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.03.31:106][983]LogActorFactory: Actor Factory created NethkenHall_pCube10
+[2018.12.13-08.03.33:465][246]LogActorFactory: Actor Factory created NethkenHall_pCube10
+[2018.12.13-08.03.42:350][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.03.42:557][197]LogActorFactory: Actor Factory created NethkenHall_pCube10_1
+[2018.12.13-08.03.45:690][501]LogActorFactory: Actor Factory created NethkenHall_pCube10_1
+[2018.12.13-08.03.48:296][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.03.48:573][779]LogActorFactory: Actor Factory created NethkenHall_pCube11
+[2018.12.13-08.03.53:330][215]LogActorFactory: Actor Factory created NethkenHall_pCube11
+[2018.12.13-08.03.54:565][350]Cmd: DELETE
+[2018.12.13-08.03.54:565][350]Cmd: ACTOR DELETE
+[2018.12.13-08.03.54:568][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.03.54:597][350]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.12.13-08.03.56:508][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.03.56:722][585]LogActorFactory: Actor Factory created NethkenHall_pCube2
+[2018.12.13-08.03.59:234][850]LogActorFactory: Actor Factory created NethkenHall_pCube2
+[2018.12.13-08.04.38:340][167]Cmd: DELETE
+[2018.12.13-08.04.38:340][167]Cmd: ACTOR DELETE
+[2018.12.13-08.04.38:343][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.04.38:373][167]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.12.13-08.04.39:445][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.04.39:643][310]LogActorFactory: Actor Factory created NethkenHall_pCube2_1
+[2018.12.13-08.04.42:554][643]LogActorFactory: Actor Factory created NethkenHall_pCube2_1
+[2018.12.13-08.04.43:850][786]Cmd: DELETE
+[2018.12.13-08.04.43:850][786]Cmd: ACTOR DELETE
+[2018.12.13-08.04.43:853][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.04.43:882][786]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.12.13-08.04.45:010][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.04.45:202][934]LogActorFactory: Actor Factory created NethkenHall_pCube3
+[2018.12.13-08.04.48:135][267]LogActorFactory: Actor Factory created NethkenHall_pCube3
+[2018.12.13-08.04.56:433][185]Cmd: DELETE
+[2018.12.13-08.04.56:433][185]Cmd: ACTOR DELETE
+[2018.12.13-08.04.56:436][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.04.56:464][185]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.12.13-08.04.57:522][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.04.57:845][342]LogActorFactory: Actor Factory created NethkenHall_pCube5
+[2018.12.13-08.04.58:637][422]LogActorFactory: Actor Factory created NethkenHall_pCube5
+[2018.12.13-08.04.59:532][524]LogActorFactory: Actor Factory created NethkenHall_pCube5
+[2018.12.13-08.05.24:199][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall_pCube10_1)
+[2018.12.13-08.05.27:571][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall_pCube5)
+[2018.12.13-08.06.00:293][125]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.13-08.06.05:053][651]Cmd: TRANSACTION UNDO
+[2018.12.13-08.06.05:053][651]LogEditorTransaction: Undo Scale Actors
+[2018.12.13-08.06.06:313][778]Cmd: TRANSACTION UNDO
+[2018.12.13-08.06.06:313][778]LogEditorTransaction: Undo Scale Actors
+[2018.12.13-08.06.06:657][816]Cmd: TRANSACTION UNDO
+[2018.12.13-08.06.06:657][816]LogEditorTransaction: Undo Scale Actors
+[2018.12.13-08.06.15:150][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.06.29:094][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.07.12:947][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/ThirdPersonExampleMap_Auto23EEC05924F85003BB85513A07F6DD5BF.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.12.13-08.07.12:955][972]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.185
+[2018.12.13-08.07.12:955][972]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.12.13-08.07.12:957][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pPlatonic2_1] ([1] browsable assets)...
+[2018.12.13-08.07.12:968][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pPlatonic2_1.NethkenHall_pPlatonic2_1]
+[2018.12.13-08.07.12:968][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pPlatonic2_1]
+[2018.12.13-08.07.12:986][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pPlatonic2_1_Auto27C939C9645911C7AFB6DD99FF22F69A9.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pPlatonic2_1_Auto2.uasset'
+[2018.12.13-08.07.12:987][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube8_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:005][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube8_1.NethkenHall_pCube8_1]
+[2018.12.13-08.07.13:005][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube8_1]
+[2018.12.13-08.07.13:091][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube8_1_Auto2A02F753149ADD999A6CBD38457FE8862.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube8_1_Auto2.uasset'
+[2018.12.13-08.07.13:098][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube1] ([1] browsable assets)...
+[2018.12.13-08.07.13:126][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube1.NethkenHall_pCube1]
+[2018.12.13-08.07.13:126][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube1]
+[2018.12.13-08.07.13:177][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube1_Auto2E4FE5246485EE622421FD1884095B843.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube1_Auto2.uasset'
+[2018.12.13-08.07.13:181][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube2] ([1] browsable assets)...
+[2018.12.13-08.07.13:193][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube2.NethkenHall_pCube2]
+[2018.12.13-08.07.13:194][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube2]
+[2018.12.13-08.07.13:222][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube2_Auto26CABF4FA4ED70C2CA55678A29B68D15E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube2_Auto2.uasset'
+[2018.12.13-08.07.13:224][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_polySurface3] ([1] browsable assets)...
+[2018.12.13-08.07.13:237][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_polySurface3.NethkenHall_polySurface3]
+[2018.12.13-08.07.13:237][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_polySurface3]
+[2018.12.13-08.07.13:281][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface3_Auto225D0F5734D8C1BBB1B8E91BD3EBF3CE3.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_polySurface3_Auto2.uasset'
+[2018.12.13-08.07.13:285][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_polySurface4] ([1] browsable assets)...
+[2018.12.13-08.07.13:298][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_polySurface4.NethkenHall_polySurface4]
+[2018.12.13-08.07.13:298][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_polySurface4]
+[2018.12.13-08.07.13:325][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface4_Auto237A6BCB9478B34A18CC6AA852471878F.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_polySurface4_Auto2.uasset'
+[2018.12.13-08.07.13:327][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube5] ([1] browsable assets)...
+[2018.12.13-08.07.13:347][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube5.NethkenHall_pCube5]
+[2018.12.13-08.07.13:347][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube5]
+[2018.12.13-08.07.13:372][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube5_Auto24DF3302A47AC7973B8A4269145432F27.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube5_Auto2.uasset'
+[2018.12.13-08.07.13:374][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube7] ([1] browsable assets)...
+[2018.12.13-08.07.13:385][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube7.NethkenHall_pCube7]
+[2018.12.13-08.07.13:386][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube7]
+[2018.12.13-08.07.13:413][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube7_Auto2BFC2229146C29ABC816EF5B96FB7F633.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube7_Auto2.uasset'
+[2018.12.13-08.07.13:414][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube8] ([1] browsable assets)...
+[2018.12.13-08.07.13:426][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube8.NethkenHall_pCube8]
+[2018.12.13-08.07.13:426][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube8]
+[2018.12.13-08.07.13:457][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube8_Auto23743E65747B27AF27A7751AB75178304.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube8_Auto2.uasset'
+[2018.12.13-08.07.13:459][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube10] ([1] browsable assets)...
+[2018.12.13-08.07.13:471][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube10.NethkenHall_pCube10]
+[2018.12.13-08.07.13:471][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube10]
+[2018.12.13-08.07.13:506][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube10_Auto23E8C292F4A6A1D7C9593D596FF7AD6CA.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube10_Auto2.uasset'
+[2018.12.13-08.07.13:509][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube11] ([1] browsable assets)...
+[2018.12.13-08.07.13:524][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube11.NethkenHall_pCube11]
+[2018.12.13-08.07.13:524][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube11]
+[2018.12.13-08.07.13:557][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube11_Auto28564BA044AE8E7B9031501A768553E70.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube11_Auto2.uasset'
+[2018.12.13-08.07.13:560][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_polySurface2_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:576][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_polySurface2_1.NethkenHall_polySurface2_1]
+[2018.12.13-08.07.13:576][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_polySurface2_1]
+[2018.12.13-08.07.13:595][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface2_1_Auto2E1D7E83545441350C5057AABB89B5C41.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_polySurface2_1_Auto2.uasset'
+[2018.12.13-08.07.13:597][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pPlatonic1_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:610][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pPlatonic1_1.NethkenHall_pPlatonic1_1]
+[2018.12.13-08.07.13:610][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pPlatonic1_1]
+[2018.12.13-08.07.13:628][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pPlatonic1_1_Auto299914A4248EE8479E0E4CCA2687EC4AA.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pPlatonic1_1_Auto2.uasset'
+[2018.12.13-08.07.13:629][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube1_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:640][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube1_1.NethkenHall_pCube1_1]
+[2018.12.13-08.07.13:640][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube1_1]
+[2018.12.13-08.07.13:659][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube1_1_Auto2EE2C146841B72F1C5C9DD4935410B13E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube1_1_Auto2.uasset'
+[2018.12.13-08.07.13:660][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube2_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:672][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube2_1.NethkenHall_pCube2_1]
+[2018.12.13-08.07.13:672][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube2_1]
+[2018.12.13-08.07.13:690][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube2_1_Auto268549FE948BB1D89440834B556413911.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube2_1_Auto2.uasset'
+[2018.12.13-08.07.13:691][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube3_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:703][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube3_1.NethkenHall_pCube3_1]
+[2018.12.13-08.07.13:703][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube3_1]
+[2018.12.13-08.07.13:721][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube3_1_Auto2C9314D4C45C444EE9E0D108C94375996.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube3_1_Auto2.uasset'
+[2018.12.13-08.07.13:724][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_polySurface3_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:736][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_polySurface3_1.NethkenHall_polySurface3_1]
+[2018.12.13-08.07.13:736][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_polySurface3_1]
+[2018.12.13-08.07.13:755][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface3_1_Auto2D973B06C45CFE5C2B0A8E7932D26EFE4.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_polySurface3_1_Auto2.uasset'
+[2018.12.13-08.07.13:757][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_polySurface4_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:768][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_polySurface4_1.NethkenHall_polySurface4_1]
+[2018.12.13-08.07.13:768][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_polySurface4_1]
+[2018.12.13-08.07.13:792][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface4_1_Auto2BCE630394948809A192B56BD45DA73D8.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_polySurface4_1_Auto2.uasset'
+[2018.12.13-08.07.13:793][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pasted__pCube4_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:805][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pasted__pCube4_1.NethkenHall_pasted__pCube4_1]
+[2018.12.13-08.07.13:805][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pasted__pCube4_1]
+[2018.12.13-08.07.13:830][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pasted__pCube4_1_Aut337C1C594E99A561A0764BAD9C479B9E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pasted__pCube4_1_Auto2.uasset'
+[2018.12.13-08.07.13:831][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube5_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:843][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube5_1.NethkenHall_pCube5_1]
+[2018.12.13-08.07.13:844][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube5_1]
+[2018.12.13-08.07.13:868][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube5_1_Auto284A4E1F843D8B371D6C57A8D49293A73.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube5_1_Auto2.uasset'
+[2018.12.13-08.07.13:869][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube6_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:880][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube6_1.NethkenHall_pCube6_1]
+[2018.12.13-08.07.13:880][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube6_1]
+[2018.12.13-08.07.13:900][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube6_1_Auto2D0263FC74DB3AA8E52EF6C9BE821851E.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube6_1_Auto2.uasset'
+[2018.12.13-08.07.13:902][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube7_1] ([1] browsable assets)...
+[2018.12.13-08.07.13:913][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube7_1.NethkenHall_pCube7_1]
+[2018.12.13-08.07.13:913][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube7_1]
+[2018.12.13-08.07.13:931][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube7_1_Auto2E60327B547DF61ADE9D57CA841387CC4.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube7_1_Auto2.uasset'
+[2018.12.13-08.07.13:932][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_polySurface2] ([1] browsable assets)...
+[2018.12.13-08.07.13:944][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_polySurface2.NethkenHall_polySurface2]
+[2018.12.13-08.07.13:944][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_polySurface2]
+[2018.12.13-08.07.13:961][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_polySurface2_Auto240C7A2A44F7F68065DDB73B34ED84B04.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_polySurface2_Auto2.uasset'
+[2018.12.13-08.07.13:962][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/lambert1] ([1] browsable assets)...
+[2018.12.13-08.07.13:974][972]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NathkenHall/lambert1.lambert1]
+[2018.12.13-08.07.13:974][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/lambert1]
+[2018.12.13-08.07.13:995][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/lambert1_Auto2CB88D4574921D6DC3607B7BB50A08027.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/lambert1_Auto2.uasset'
+[2018.12.13-08.07.13:996][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pPlatonic1] ([1] browsable assets)...
+[2018.12.13-08.07.14:008][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pPlatonic1.NethkenHall_pPlatonic1]
+[2018.12.13-08.07.14:008][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pPlatonic1]
+[2018.12.13-08.07.14:026][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pPlatonic1_Auto282485BF64A49C82999F9E093469A8BE1.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pPlatonic1_Auto2.uasset'
+[2018.12.13-08.07.14:027][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pPlatonic2] ([1] browsable assets)...
+[2018.12.13-08.07.14:039][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pPlatonic2.NethkenHall_pPlatonic2]
+[2018.12.13-08.07.14:039][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pPlatonic2]
+[2018.12.13-08.07.14:057][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pPlatonic2_Auto26EBD11524BE5EFEAFC41369D372DCD8B.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pPlatonic2_Auto2.uasset'
+[2018.12.13-08.07.14:058][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube3] ([1] browsable assets)...
+[2018.12.13-08.07.14:070][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube3.NethkenHall_pCube3]
+[2018.12.13-08.07.14:070][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube3]
+[2018.12.13-08.07.14:090][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube3_Auto2AB30F511403FD19EB441128F92BD54E9.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube3_Auto2.uasset'
+[2018.12.13-08.07.14:091][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pasted__pCube4] ([1] browsable assets)...
+[2018.12.13-08.07.14:102][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pasted__pCube4.NethkenHall_pasted__pCube4]
+[2018.12.13-08.07.14:102][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pasted__pCube4]
+[2018.12.13-08.07.14:119][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pasted__pCube4_Auto24541B5174890486EE6A7D386E43206D0.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pasted__pCube4_Auto2.uasset'
+[2018.12.13-08.07.14:121][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube6] ([1] browsable assets)...
+[2018.12.13-08.07.14:132][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube6.NethkenHall_pCube6]
+[2018.12.13-08.07.14:132][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube6]
+[2018.12.13-08.07.14:150][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube6_Auto273B487C44AF8B8329BD836BD471B458A.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube6_Auto2.uasset'
+[2018.12.13-08.07.14:151][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube9] ([1] browsable assets)...
+[2018.12.13-08.07.14:162][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube9.NethkenHall_pCube9]
+[2018.12.13-08.07.14:162][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube9]
+[2018.12.13-08.07.14:181][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube9_Auto2C527B8134FAC9BB0947E29ACB2D0A765.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube9_Auto2.uasset'
+[2018.12.13-08.07.14:183][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube12] ([1] browsable assets)...
+[2018.12.13-08.07.14:195][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube12.NethkenHall_pCube12]
+[2018.12.13-08.07.14:195][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube12]
+[2018.12.13-08.07.14:217][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube12_Auto276FEE03E41D316DC445525986A00220A.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube12_Auto2.uasset'
+[2018.12.13-08.07.14:218][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube9_1] ([1] browsable assets)...
+[2018.12.13-08.07.14:231][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube9_1.NethkenHall_pCube9_1]
+[2018.12.13-08.07.14:231][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube9_1]
+[2018.12.13-08.07.14:249][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube9_1_Auto2E7C3AFFD44F4C36D5B2020BE90467840.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube9_1_Auto2.uasset'
+[2018.12.13-08.07.14:250][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube10_1] ([1] browsable assets)...
+[2018.12.13-08.07.14:262][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube10_1.NethkenHall_pCube10_1]
+[2018.12.13-08.07.14:263][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube10_1]
+[2018.12.13-08.07.14:284][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube10_1_Auto2624A4F4A47DC010E92F84A9B40CDB55C.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube10_1_Auto2.uasset'
+[2018.12.13-08.07.14:285][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube11_1] ([1] browsable assets)...
+[2018.12.13-08.07.14:296][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube11_1.NethkenHall_pCube11_1]
+[2018.12.13-08.07.14:296][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube11_1]
+[2018.12.13-08.07.14:314][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube11_1_Auto2B8A8116942A16A3574C9E0ABDCBA21AD.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube11_1_Auto2.uasset'
+[2018.12.13-08.07.14:316][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NathkenHall/NethkenHall_pCube12_1] ([1] browsable assets)...
+[2018.12.13-08.07.14:327][972]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/NathkenHall/NethkenHall_pCube12_1.NethkenHall_pCube12_1]
+[2018.12.13-08.07.14:328][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/NathkenHall/NethkenHall_pCube12_1]
+[2018.12.13-08.07.14:346][972]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/NethkenHall_pCube12_1_Auto2C366EE1D49C6F731C05E15824BF3210F.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Autosaves/Game/NathkenHall/NethkenHall_pCube12_1_Auto2.uasset'
+[2018.12.13-08.07.14:347][972]LogFileHelpers: Auto-saving content packages took 1.391
+[2018.12.13-08.07.51:373][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.08.04:199][484]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_polySurface3)
+[2018.12.13-08.08.05:075][581]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_pasted__pCube4_1)
+[2018.12.13-08.08.06:033][689]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_pCube10_1)
+[2018.12.13-08.08.07:717][877]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_pCube10)
+[2018.12.13-08.08.08:517][966]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_polySurface3)
+[2018.12.13-08.08.09:905][124]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_pasted__pCube4)
+[2018.12.13-08.08.11:937][358]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (NethkenHall_pCube1)
+[2018.12.13-08.08.13:875][583]Cmd: DELETE
+[2018.12.13-08.08.13:875][583]Cmd: ACTOR DELETE
+[2018.12.13-08.08.13:884][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:884][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:884][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:884][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:884][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:884][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:885][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-08.08.13:911][583]LogEditorActor: Deleted 7 Actors (0.036 secs)
+[2018.12.13-08.08.15:423][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.08.15:646][789]LogActorFactory: Actor Factory created NethkenHall_pPlatonic2_1
+[2018.12.13-08.08.15:647][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.15:647][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.15:647][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.15:647][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.15:647][789]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.15:647][789]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.16:695][914]LogActorFactory: Actor Factory created NethkenHall_pPlatonic2_1
+[2018.12.13-08.08.16:695][914]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.16:695][914]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.16:695][914]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.16:695][914]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.16:713][914]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.16:713][914]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.24:556][846]Cmd: TRANSACTION UNDO
+[2018.12.13-08.08.24:556][846]LogEditorTransaction: Undo Create Actors
+[2018.12.13-08.08.25:723][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.08.25:982][ 10]LogActorFactory: Actor Factory created NethkenHall_pPlatonic2
+[2018.12.13-08.08.25:982][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.25:982][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.25:982][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.25:982][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.25:983][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.25:983][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.26:763][103]LogActorFactory: Actor Factory created NethkenHall_pPlatonic2
+[2018.12.13-08.08.26:763][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.26:763][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.26:763][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.26:763][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.26:781][103]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.26:781][103]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.31:892][698]Cmd: TRANSACTION UNDO
+[2018.12.13-08.08.31:892][698]LogEditorTransaction: Undo Create Actors
+[2018.12.13-08.08.35:233][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.08.35:575][123]LogActorFactory: Actor Factory created NethkenHall_pPlatonic1_1
+[2018.12.13-08.08.35:575][123]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.35:575][123]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.35:575][123]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.35:575][123]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.35:575][123]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.35:575][123]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.36:037][178]LogActorFactory: Actor Factory created NethkenHall_pPlatonic1_1
+[2018.12.13-08.08.36:037][178]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.36:037][178]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.36:037][178]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.36:037][178]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.36:054][178]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.36:054][178]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.49:366][761]Cmd: TRANSACTION UNDO
+[2018.12.13-08.08.49:366][761]LogEditorTransaction: Undo Create Actors
+[2018.12.13-08.08.52:202][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.08.52:476][125]LogActorFactory: Actor Factory created NethkenHall_pPlatonic1
+[2018.12.13-08.08.52:476][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.52:476][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.52:476][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.52:477][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.52:477][125]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.52:477][125]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.53:041][192]LogActorFactory: Actor Factory created NethkenHall_pPlatonic1
+[2018.12.13-08.08.53:041][192]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.53:041][192]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.53:041][192]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.53:041][192]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.53:059][192]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.12.13-08.08.53:059][192]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2018.12.13-08.08.55:689][501]Cmd: TRANSACTION UNDO
+[2018.12.13-08.08.55:689][501]LogEditorTransaction: Undo Create Actors
+[2018.12.13-08.12.24:979][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-08.12.25:290][409]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.12.13-08.12.25:290][409]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.13-08.12.25:291][409]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.12.13-08.12.26:327][409]LogWindows: Error: === Critical error: ===
+[2018.12.13-08.12.26:327][409]LogWindows: Error: 
+[2018.12.13-08.12.26:327][409]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 629] 
+[2018.12.13-08.12.26:327][409]LogWindows: Error: Attempted to create a package named 'None'
+[2018.12.13-08.12.26:327][409]LogWindows: Error: 
+[2018.12.13-08.12.26:327][409]LogWindows: Error: 
+[2018.12.13-08.12.26:327][409]LogWindows: Error: [Callstack] 0x00007ffbee68a388 KERNELBASE.dll!UnknownFunction []
+[2018.12.13-08.12.26:327][409]LogWindows: Error: [Callstack] 0x00007ffba3dfcd1a UE4Editor-Core.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3bda967 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3b10df7 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba8c5177b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb9148866b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb90be683f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb90b7cc5e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb90bb91b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb819bbf08 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81a7c406 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81b276a4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81ad62f3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81aed16b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81aee428 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81b493bf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba36d6e9a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffb81a2f595 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318bdbe UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3694a9d UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3694a9d UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3699c7e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3694d36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3694a9d UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3699c7e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba3699c7e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:328][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba3694a9d UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba3699c7e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a786 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a169 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318a8e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318c034 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: [Callstack] 0x00007ffba318ce21 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.12.13-08.12.26:329][409]LogWindows: Error: 
+[2018.12.13-08.12.26:343][409]LogExit: Executing StaticShutdownAfterError
+[2018.12.13-08.12.26:346][409]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.12.13-08.12.26:353][409]Log file closed, 12/13/18 02:12:26
