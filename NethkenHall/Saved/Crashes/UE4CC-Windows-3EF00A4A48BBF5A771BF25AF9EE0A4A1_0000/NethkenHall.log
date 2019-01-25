@@ -1,0 +1,1183 @@
+﻿Log file open, 01/25/19 08:36:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NethkenHall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281002
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.074s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: H:/HDD Programs/EpicGames/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.25-14.36.41:340][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.25-14.36.41:341][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:341][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:350][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.25-14.36.41:350][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.25-14.36.41:351][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.25-14.36.41:351][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.25-14.36.41:351][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.25-14.36.41:364][  0]LogHAL: Display: Platform has ~ 12 GB [12830994432 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.25-14.36.41:364][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.25-14.36.41:364][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.25-14.36.41:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.25-14.36.41:365][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.25-14.36.41:366][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.25-14.36.41:366][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.01.25-14.36.41:366][  0]LogInit: Computer: MARTY-PC
+[2019.01.25-14.36.41:366][  0]LogInit: User: Marty
+[2019.01.25-14.36.41:366][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.25-14.36.41:366][  0]LogInit: High frequency timer resolution =3.428038 MHz
+[2019.01.25-14.36.41:366][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.01.25-14.36.41:366][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.25-14.36.41:366][  0]LogMemory: Process Physical Memory: 101.88 MB used, 101.88 MB peak
+[2019.01.25-14.36.41:366][  0]LogMemory: Process Virtual Memory: 91.27 MB used, 91.27 MB peak
+[2019.01.25-14.36.41:366][  0]LogMemory: Physical Memory: 6905.78 MB used,  5330.81 MB free, 12236.59 MB total
+[2019.01.25-14.36.41:366][  0]LogMemory: Virtual Memory: 4647.84 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.25-14.36.41:386][  0]LogInit: Using OS detected language (en-US).
+[2019.01.25-14.36.41:386][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.25-14.36.41:387][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.25-14.36.41:775][  0]LogStreaming: Display: Took  0.389s to InitEngineTextLocalization.
+[2019.01.25-14.36.41:775][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.25-14.36.41:826][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.25-14.36.41:826][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.25-14.36.42:051][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.01.25-14.36.42:051][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.25-14.36.42:128][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.01.25-14.36.42:128][  0]LogD3D11RHI:       4043/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.25-14.36.42:130][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.25-14.36.42:130][  0]LogD3D11RHI:       0/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.25-14.36.42:130][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.25-14.36.42:144][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.25-14.36.42:144][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.25-14.36.42:144][  0]LogWindows: EnumDisplayDevices:
+[2019.01.25-14.36.42:144][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.01.25-14.36.42:144][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.01.25-14.36.42:145][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.25-14.36.42:145][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.01.25-14.36.42:145][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.25-14.36.42:145][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.01.25-14.36.42:145][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.01.25-14.36.42:145][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.01.25-14.36.42:145][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.01.25-14.36.42:197][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.25-14.36.42:219][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.25-14.36.42:554][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.25-14.36.42:568][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.25-14.36.42:581][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.25-14.36.42:594][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.25-14.36.42:607][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.25-14.36.42:620][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.25-14.36.42:633][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.25-14.36.42:646][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.25-14.36.42:652][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-14.36.42:730][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.25-14.36.42:791][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.25-14.36.42:791][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.25-14.36.42:815][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.25-14.36.42:815][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.25-14.36.42:827][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.25-14.36.42:839][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.25-14.36.42:853][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.25-14.36.42:866][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.25-14.36.42:919][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.25-14.36.42:919][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.25-14.36.42:920][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.25-14.36.42:968][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Intermediate/Shaders/WorkingDirectory/29188/).
+[2019.01.25-14.36.42:968][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marty/AppData/Local/Temp/UnrealShaderWorkingDir/51BEAB094E2A172D28C13A9628B99D62/'.
+[2019.01.25-14.36.42:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.25-14.36.42:969][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.25-14.36.42:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.25-14.36.43:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.25-14.36.43:651][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Marty/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.25-14.36.43:651][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marty/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.25-14.36.43:651][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.25-14.36.43:651][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.25-14.36.43:651][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.25-14.36.43:651][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.25-14.36.43:664][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.25-14.36.43:664][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.25-14.36.43:664][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.25-14.36.43:676][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marty/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.25-14.36.43:676][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.25-14.36.43:676][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.25-14.36.43:706][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.25-14.36.43:708][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.25-14.36.43:708][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.25-14.36.43:796][  0]LogAssetRegistry: FAssetRegistry took 0.0335 seconds to start up
+[2019.01.25-14.36.44:203][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.25-14.36.44:358][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.25-14.36.44:362][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.25-14.36.44:362][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.25-14.36.44:362][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.25-14.36.44:362][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.25-14.36.44:374][  0]LogNetVersion: NethkenHall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1845692274)
+[2019.01.25-14.36.44:874][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.075196 seconds
+[2019.01.25-14.36.44:881][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.25-14.36.44:881][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.25-14.36.44:881][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.25-14.36.45:739][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.25-14.36.45:751][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.25-14.36.46:425][  0]SourceControl: Source control is disabled
+[2019.01.25-14.36.46:425][  0]SourceControl: Source control is disabled
+[2019.01.25-14.36.46:426][  0]SourceControl: Source control is disabled
+[2019.01.25-14.36.46:427][  0]SourceControl: Source control is disabled
+[2019.01.25-14.36.46:584][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.25-14.36.46:685][  0]LogOcInput: OculusInput pre-init called
+[2019.01.25-14.36.46:826][  0]LogEngine: Initializing Engine...
+[2019.01.25-14.36.46:827][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.01.25-14.36.46:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.25-14.36.46:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.25-14.36.46:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.25-14.36.46:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.25-14.36.47:081][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.25-14.36.47:093][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.25-14.36.47:128][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-14.36.47:164][  0]LogInit: FAudioDevice initialized.
+[2019.01.25-14.36.47:165][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.25-14.36.47:337][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/Marty/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.25-14.36.47:348][  0]LogInit: Texture streaming: Enabled
+[2019.01.25-14.36.47:370][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.25-14.36.47:387][  0]LogInit: Transaction tracking system initialized
+[2019.01.25-14.36.47:409][  0]BlueprintLog: New page: Editor Load
+[2019.01.25-14.36.47:481][  0]LocalizationService: Localization service is disabled
+[2019.01.25-14.36.47:936][  0]LogFileCache: Scanning file cache for directory 'H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/' took 0.02s
+[2019.01.25-14.36.47:936][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.25-14.36.47:936][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.25-14.36.47:936][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.25-14.36.47:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.25-14.36.47:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.25-14.36.47:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.25-14.36.47:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.25-14.36.48:058][  0]SourceControl: Source control is disabled
+[2019.01.25-14.36.48:059][  0]Cmd: MAP LOAD FILE="../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-14.36.48:059][  0]LightingResults: New page: Lighting Build
+[2019.01.25-14.36.48:061][  0]MapCheck: New page: Map Check
+[2019.01.25-14.36.48:061][  0]LightingResults: New page: Lighting Build
+[2019.01.25-14.36.48:398][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/coloredBrick2'
+[2019.01.25-14.36.48:398][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/coloredBrick2' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/NethkenHall.uasset.
+[2019.01.25-14.36.48:398][  0]LoadErrors: Error: /Game/Geometry/Meshes/NethkenHall : Can't find file for asset. /Game/Geometry/Meshes/coloredBrick2
+[2019.01.25-14.36.48:454][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/coloredBrick2'
+[2019.01.25-14.36.48:454][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/coloredBrick2' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/NethkenHall.uasset.
+[2019.01.25-14.36.48:454][  0]LoadErrors: Error: /Game/Geometry/Meshes/NethkenHall : Can't find file for asset. /Game/Geometry/Meshes/coloredBrick2
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset'
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:469][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton'
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:469][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:469][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset'
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:470][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton'
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:470][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset'
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:470][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:470][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton'
+[2019.01.25-14.36.48:470][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:471][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset'
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:471][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset'
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:471][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset'
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:471][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:471][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton'
+[2019.01.25-14.36.48:471][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:472][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:472][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton
+[2019.01.25-14.36.48:472][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:472][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton'
+[2019.01.25-14.36.48:472][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:472][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:472][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton
+[2019.01.25-14.36.48:472][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:472][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton'
+[2019.01.25-14.36.48:472][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:472][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.01.25-14.36.48:472][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton
+[2019.01.25-14.36.48:491][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.01.25-14.36.48:492][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/StarterContent/Architecture/Nethken/NethkenHall.uasset.
+[2019.01.25-14.36.48:492][  0]LoadErrors: Error: /Game/StarterContent/Architecture/Nethken/NethkenHall : Can't find file for asset. /Game/StarterContent/Architecture/Nethken/lambert1
+[2019.01.25-14.36.48:492][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.01.25-14.36.48:492][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading ../../../../../../../Documents/GitHub/graphicsdesignproject/NethkenHall/Content/StarterContent/Architecture/Nethken/NethkenHall.uasset.
+[2019.01.25-14.36.48:492][  0]LoadErrors: Error: /Game/StarterContent/Architecture/Nethken/NethkenHall : Can't find file for asset. /Game/StarterContent/Architecture/Nethken/lambert1
+[2019.01.25-14.36.48:612][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/coloredBrick2'
+[2019.01.25-14.36.48:612][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/coloredBrick2.coloredBrick2 Referenced by NethkenHall
+[2019.01.25-14.36.48:612][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/coloredBrick2' while loading NULL.
+[2019.01.25-14.36.48:612][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/coloredBrick2.coloredBrick2 Referenced by NethkenHall
+[2019.01.25-14.36.48:612][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/coloredBrick2'
+[2019.01.25-14.36.48:612][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/coloredBrick2.coloredBrick2 Referenced by NethkenHall
+[2019.01.25-14.36.48:612][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/coloredBrick2' while loading NULL.
+[2019.01.25-14.36.48:612][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/coloredBrick2.coloredBrick2 Referenced by NethkenHall
+[2019.01.25-14.36.48:759][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:759][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton'
+[2019.01.25-14.36.48:759][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton.Radiator_Radiator 01_Skeleton Referenced by Radiator_Radiator 01
+[2019.01.25-14.36.48:760][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:760][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' while loading NULL.
+[2019.01.25-14.36.48:760][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton.Radiator_Radiator 01_Skeleton Referenced by Radiator_Radiator 01
+[2019.01.25-14.36.48:760][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:760][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset'
+[2019.01.25-14.36.48:760][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset.Radiator_Radiator 01_PhysicsAsset Referenced by Radiator_Radiator 01
+[2019.01.25-14.36.48:760][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:760][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' while loading NULL.
+[2019.01.25-14.36.48:760][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset.Radiator_Radiator 01_PhysicsAsset Referenced by Radiator_Radiator 01
+[2019.01.25-14.36.48:789][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:789][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton'
+[2019.01.25-14.36.48:789][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton.Radiator_Radiator 02_Skeleton Referenced by Radiator_Radiator 02
+[2019.01.25-14.36.48:789][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:789][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' while loading NULL.
+[2019.01.25-14.36.48:789][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton.Radiator_Radiator 02_Skeleton Referenced by Radiator_Radiator 02
+[2019.01.25-14.36.48:790][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:790][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset'
+[2019.01.25-14.36.48:790][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset.Radiator_Radiator 02_PhysicsAsset Referenced by Radiator_Radiator 02
+[2019.01.25-14.36.48:790][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:790][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' while loading NULL.
+[2019.01.25-14.36.48:790][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset.Radiator_Radiator 02_PhysicsAsset Referenced by Radiator_Radiator 02
+[2019.01.25-14.36.48:806][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:806][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton'
+[2019.01.25-14.36.48:806][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton.Radiator_Radiator 03_Skeleton Referenced by Radiator_Radiator 03
+[2019.01.25-14.36.48:806][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:806][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' while loading NULL.
+[2019.01.25-14.36.48:806][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton.Radiator_Radiator 03_Skeleton Referenced by Radiator_Radiator 03
+[2019.01.25-14.36.48:806][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:806][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset'
+[2019.01.25-14.36.48:806][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset.Radiator_Radiator 03_PhysicsAsset Referenced by Radiator_Radiator 03
+[2019.01.25-14.36.48:806][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.01.25-14.36.48:807][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' while loading NULL.
+[2019.01.25-14.36.48:807][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset.Radiator_Radiator 03_PhysicsAsset Referenced by Radiator_Radiator 03
+[2019.01.25-14.36.48:824][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.01.25-14.36.48:824][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.01.25-14.36.48:824][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading NULL.
+[2019.01.25-14.36.48:824][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.01.25-14.36.48:824][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.01.25-14.36.48:824][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.01.25-14.36.48:825][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading NULL.
+[2019.01.25-14.36.48:825][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.01.25-14.36.49:291][  0]LogMaterial: Display: Missing cached shader map for material presentRoom, compiling. 
+[2019.01.25-14.36.49:292][  0]LogMaterial: Warning: H:\Documents\GitHub\graphicsdesignproject\NethkenHall\Content\Geometry\Meshes\presentRoom.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.25-14.36.49:292][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.25-14.36.49:745][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.25-14.36.49:776][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-14.36.49:801][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-14.36.49:801][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2019.01.25-14.36.49:801][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.743
+[2019.01.25-14.36.49:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-14.36.49:934][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-14.36.49:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-14.36.49:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-14.36.49:966][  0]LogCollectionManager: Loaded 0 collections in 0.002055 seconds
+[2019.01.25-14.36.49:995][  0]LogFileCache: Scanning file cache for directory 'H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/Collections/' took 0.01s
+[2019.01.25-14.36.49:995][  0]LogFileCache: Scanning file cache for directory 'H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Developers/Marty/Collections/' took 0.00s
+[2019.01.25-14.36.49:995][  0]LogFileCache: Scanning file cache for directory 'H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/Collections/' took 0.01s
+[2019.01.25-14.36.49:995][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.25-14.36.50:004][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2651 classes and 620 folders.
+[2019.01.25-14.36.50:010][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-14.36.50:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-14.36.50:049][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-14.36.50:053][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.25-14.36.50:073][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.25-14.36.50:075][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.25-14.36.50:083][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.25-14.36.50:253][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.25-14.36.50:253][  0]LogLoad: (Engine Initialization) Total time: 10.41 seconds
+[2019.01.25-14.36.50:253][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.25-14.36.50:264][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.25-14.36.50:311][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.25-14.36.50:315][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-14.36.50:387][  0]LogRenderer: Reallocating scene render targets to support 1208x488 Format 10 NumSamples 1 (Frame:1).
+[2019.01.25-14.36.50:455][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-14.36.50:692][  2]LogAssetRegistry: Asset discovery search completed in 6.9181 seconds
+[2019.01.25-14.36.50:695][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.25-14.36.50:695][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.01.25-14.36.50:818][  3]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.36.50:847][  4]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.36.50:847][  4]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.36.52:865][191]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-14.36.52:869][191]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-14.37.04:025][253]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:025][253]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:026][253]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:379][284]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:389][285]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:389][285]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:744][311]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:744][311]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:744][311]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:936][333]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:945][334]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.04:945][334]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:126][355]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:134][356]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:134][356]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:324][377]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:332][378]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:332][378]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:512][399]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:521][400]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:521][400]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:652][412]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:665][413]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:665][413]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:808][425]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:819][426]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:819][426]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:963][438]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:973][439]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.05:973][439]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:110][451]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:125][452]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:125][452]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:267][464]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:277][465]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:278][465]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:452][477]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:466][478]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:466][478]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:619][490]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:629][491]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:629][491]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:755][503]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:765][504]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:765][504]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:893][516]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:902][517]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.06:902][517]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:018][529]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:027][530]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:027][530]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:132][542]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:140][543]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:141][543]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:255][555]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:265][556]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:265][556]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:373][568]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:382][569]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:383][569]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:495][581]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:503][582]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:504][582]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:638][594]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:647][595]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:647][595]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:760][607]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:768][608]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:769][608]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:877][620]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:886][621]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:886][621]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.07:996][633]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:010][634]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:010][634]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:137][646]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:145][647]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:145][647]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:264][659]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:274][660]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:274][660]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:425][672]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:439][673]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:439][673]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:555][685]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:564][686]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:564][686]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:682][698]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:692][699]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:693][699]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:811][711]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:820][712]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:820][712]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:944][724]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:953][725]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.08:953][725]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:077][737]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:087][738]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:087][738]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:217][750]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:228][751]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:228][751]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:346][763]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:354][764]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:355][764]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:581][783]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:581][783]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:581][783]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:815][802]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:824][803]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:825][803]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:945][815]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:956][816]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.09:957][816]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:069][828]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:078][829]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:078][829]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:192][841]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:201][842]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:201][842]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:314][854]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:323][855]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:323][855]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:433][867]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:442][868]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:442][868]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:595][880]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:609][881]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:609][881]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:750][893]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:761][894]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:761][894]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:889][906]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:898][907]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.10:899][907]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.11:123][926]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.11:124][926]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.11:124][926]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.11:325][945]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.11:334][946]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.11:335][946]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.18:338][662]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.18:338][662]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.18:339][662]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.18:749][707]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.18:757][708]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.18:757][708]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:081][740]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:082][740]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:082][740]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:347][768]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:355][769]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:355][769]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:636][800]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:645][801]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:645][801]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:841][823]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:849][824]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:850][824]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.19:998][841]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:006][842]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:006][842]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:155][859]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:164][860]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:164][860]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:317][877]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:328][878]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:328][878]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:475][895]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:483][896]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:483][896]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:635][913]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:644][914]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:644][914]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:788][931]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:796][932]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:796][932]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:953][949]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:961][950]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.20:961][950]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:109][967]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:117][968]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:118][968]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:269][985]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:277][986]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:277][986]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:452][  3]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:464][  4]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:464][  4]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:633][ 21]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:642][ 22]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:642][ 22]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:877][ 47]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:886][ 48]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.21:887][ 48]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:056][ 65]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:064][ 66]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:065][ 66]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:218][ 83]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:227][ 84]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:227][ 84]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:429][102]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:439][103]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:439][103]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:584][120]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:592][121]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:593][121]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:817][144]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:830][145]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.22:830][145]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:060][168]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:069][169]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:069][169]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:270][192]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:278][193]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:279][193]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:493][216]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:501][217]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:501][217]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:647][234]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:648][234]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:648][234]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:778][249]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:778][249]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:778][249]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:947][264]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:947][264]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.23:947][264]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:078][279]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:079][279]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:079][279]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:226][294]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:226][294]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:226][294]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:366][309]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:366][309]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:366][309]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:496][324]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:496][324]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:496][324]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:681][339]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:681][339]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:681][339]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:811][354]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:811][354]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:812][354]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:984][373]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:984][373]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.24:984][373]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.25:168][392]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.25:168][392]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.25:169][392]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.25:938][482]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.25:955][483]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.25:955][483]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:093][495]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:102][496]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:102][496]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:213][508]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:225][509]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:225][509]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:332][521]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:342][522]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:342][522]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:455][534]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:464][535]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:465][535]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:574][547]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:582][548]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:583][548]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:689][560]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:698][561]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:698][561]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:808][573]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:816][574]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:817][574]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:937][586]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:946][587]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.26:946][587]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:085][599]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:095][600]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:095][600]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:204][612]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:213][613]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:213][613]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:320][625]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:330][626]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:330][626]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:448][638]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:457][639]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:457][639]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:574][652]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:583][653]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:583][653]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:709][665]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:719][666]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:719][666]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:851][678]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:860][679]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:861][679]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:979][691]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:987][692]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.27:987][692]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:551][759]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:561][760]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:561][760]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:676][772]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:685][773]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:686][773]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:803][785]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:814][786]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.28:815][786]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:016][809]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:025][810]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:026][810]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:147][822]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:157][823]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:157][823]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:290][835]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:299][836]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:299][836]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:410][848]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:418][849]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:418][849]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:514][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-14.37.29:574][867]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:582][868]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:582][868]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:687][880]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:695][881]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:695][881]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:798][893]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:806][894]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:807][894]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:910][906]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:918][907]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.29:918][907]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:020][919]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:028][920]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:028][920]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:129][932]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:137][933]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:137][933]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:240][945]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:248][946]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:248][946]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:348][958]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:356][959]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:356][959]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:462][971]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:470][972]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:471][972]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:575][984]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:584][985]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:584][985]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:689][997]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:697][998]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:698][998]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:799][ 10]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:807][ 11]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:808][ 11]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:910][ 23]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:919][ 24]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.30:919][ 24]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:021][ 36]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:030][ 37]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:030][ 37]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:131][ 49]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:140][ 50]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:140][ 50]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:245][ 62]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:253][ 63]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.31:253][ 63]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
+[2019.01.25-14.37.38:943][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall4)
+[2019.01.25-14.37.50:934][309]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.25-14.38.03:494][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-14.38.17:805][492]LogEditorFactories: Performing atomic reimport of [H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx]
+[2019.01.25-14.38.17:808][492]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-14.38.17:838][492]LogFbx: Loading FBX Scene from H:/Documents/GitHub/graphicsdesignproject/NethkenHall/Import/NethkenHall.fbx
+[2019.01.25-14.38.18:023][492]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.25-14.38.18:058][492]LogFbx: Warning: Triangulating static mesh polySurface2
+[2019.01.25-14.38.18:153][492]LogEditorFactories: Warning: -- import failed
+[2019.01.25-14.38.18:166][492]FBXImport: Error: NethkenHall could not be created because all of its polygons are degenerate. 
+[2019.01.25-14.38.18:178][492]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.01.25-14.38.18:181][492]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.25-14.38.19:500][492]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.319 s
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: 
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'None.NethkenHall'! You must pass in fully qualified package names
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: Stack: 
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: [Callstack] 0x00007ffe937f0aac UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: [Callstack] 0x00007ffe937a1281 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: [Callstack] 0x00007ffe669c0907 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.01.25-14.38.19:500][492]LogOutputDevice: Error: [Callstack] 0x00007ffe66a3e715 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe66a4f92d UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe66a213b7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77b67c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77dec12b UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77dec99c UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92e98ef8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42cdd UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe92f42c8d UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77b92fab UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77b5ce85 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77b93a0b UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77b5e222 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77bbf5a6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ffe77bbe483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ff7a9307094 UE4Editor.exe!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ff7a931596c UE4Editor.exe!UnknownFunction []
+[2019.01.25-14.38.19:501][492]LogOutputDevice: Error: [Callstack] 0x00007ff7a93159ea UE4Editor.exe!UnknownFunction []
+[2019.01.25-14.38.19:502][492]LogOutputDevice: Error: [Callstack] 0x00007ff7a93248da UE4Editor.exe!UnknownFunction []
+[2019.01.25-14.38.19:502][492]LogOutputDevice: Error: [Callstack] 0x00007ff7a932659a UE4Editor.exe!UnknownFunction []
+[2019.01.25-14.38.19:502][492]LogOutputDevice: Error: [Callstack] 0x00007ffed0563034 KERNEL32.DLL!UnknownFunction []
+[2019.01.25-14.38.19:502][492]LogOutputDevice: Error: [Callstack] 0x00007ffed0813691 ntdll.dll!UnknownFunction []
+[2019.01.25-14.38.19:502][492]LogOutputDevice: Error: 
+[2019.01.25-14.38.19:508][492]LogStats:                SubmitErrorReport -  0.000 s
