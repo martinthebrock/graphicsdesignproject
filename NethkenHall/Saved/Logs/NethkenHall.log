@@ -8380,6 +8380,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.18-11.39.49:814][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.02.18-11.39.50:397][495]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/ThirdPersonExampleMap273C202B4FC534C1538AE59D2503D3A9.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.02.18-11.39.51:067][495]LogSavePackage: Moving 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Saved/ThirdPersonExampleMap_BuiltData5E6CC1AF46B3D5B9F564618A949FC93F.tmp' to 'C:/Users/kaleb/Documents/GitHub/graphicsdesignproject/NethkenHall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
-[2019.02.18-11.41.28:934][822]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 03 has no skeleton. This needs to fixed before an animation can be set
-[2019.02.18-11.41.28:934][822]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 02 has no skeleton. This needs to fixed before an animation can be set
-[2019.02.18-11.41.28:934][822]LogAnimation: Warning: SkeletalMesh Radiator_Radiator 01 has no skeleton. This needs to fixed before an animation can be set
