@@ -1,0 +1,1077 @@
+﻿Log file open, 02/17/19 17:50:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NethkenHall
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.189725
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.092s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.17-23.50.40:032][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.17-23.50.40:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:033][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:035][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.17-23.50.40:035][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.17-23.50.40:036][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.17-23.50.40:036][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.17-23.50.40:036][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.17-23.50.40:048][  0]LogHAL: Display: Platform has ~ 16 GB [17141514240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.17-23.50.40:048][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.17-23.50.40:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.17-23.50.40:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.17-23.50.40:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.17-23.50.40:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Scalability.ini]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.17-23.50.40:049][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.17-23.50.40:050][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.17-23.50.40:050][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Config/Windows/Engine.ini]
+[2019.02.17-23.50.40:050][  0]LogInit: Computer: DESKTOP-QC3JOJN
+[2019.02.17-23.50.40:050][  0]LogInit: User: Davisync
+[2019.02.17-23.50.40:050][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.17-23.50.40:050][  0]LogInit: High frequency timer resolution =3.117192 MHz
+[2019.02.17-23.50.40:050][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.17-23.50.40:050][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.17-23.50.40:050][  0]LogMemory: Process Physical Memory: 102.13 MB used, 102.13 MB peak
+[2019.02.17-23.50.40:050][  0]LogMemory: Process Virtual Memory: 84.62 MB used, 84.62 MB peak
+[2019.02.17-23.50.40:050][  0]LogMemory: Physical Memory: 5574.18 MB used,  10773.24 MB free, 16347.42 MB total
+[2019.02.17-23.50.40:050][  0]LogMemory: Virtual Memory: 4627.98 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.02.17-23.50.40:070][  0]LogInit: Using OS detected language (en-US).
+[2019.02.17-23.50.40:070][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.17-23.50.40:072][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.17-23.50.40:459][  0]LogStreaming: Display: Took  0.389s to InitEngineTextLocalization.
+[2019.02.17-23.50.40:459][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.17-23.50.40:480][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.17-23.50.40:480][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.17-23.50.40:790][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.17-23.50.40:790][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.17-23.50.40:842][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.02.17-23.50.40:842][  0]LogD3D11RHI:       6052/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.17-23.50.40:844][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.17-23.50.40:844][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.17-23.50.40:844][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.17-23.50.40:849][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.17-23.50.40:849][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.17-23.50.40:849][  0]LogWindows: EnumDisplayDevices:
+[2019.02.17-23.50.40:849][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.02.17-23.50.40:850][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.17-23.50.40:850][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.17-23.50.40:850][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.17-23.50.40:850][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.17-23.50.40:850][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.02.17-23.50.40:850][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.02.17-23.50.40:850][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.02.17-23.50.40:850][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.02.17-23.50.40:889][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.17-23.50.40:919][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.17-23.50.41:243][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.17-23.50.41:255][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.17-23.50.41:267][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.17-23.50.41:279][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.17-23.50.41:291][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.17-23.50.41:304][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.17-23.50.41:317][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.17-23.50.41:330][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.17-23.50.41:335][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.17-23.50.41:412][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.17-23.50.41:471][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.17-23.50.41:471][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.17-23.50.41:493][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.17-23.50.41:493][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.17-23.50.41:505][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.17-23.50.41:518][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.17-23.50.41:530][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.17-23.50.41:543][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.17-23.50.41:586][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.17-23.50.41:586][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.17-23.50.41:586][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.17-23.50.41:631][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Intermediate/Shaders/WorkingDirectory/8932/).
+[2019.02.17-23.50.41:631][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Davisync/AppData/Local/Temp/UnrealShaderWorkingDir/71F0F4A14AF98B4681273993BB3D8E07/'.
+[2019.02.17-23.50.41:633][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.17-23.50.41:633][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.17-23.50.41:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.17-23.50.42:185][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.17-23.50.42:239][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Davisync/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.17-23.50.42:239][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Davisync/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.17-23.50.42:239][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.17-23.50.42:239][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.17-23.50.42:239][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.17-23.50.42:239][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.17-23.50.42:253][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.17-23.50.42:257][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.02.17-23.50.42:269][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Davisync/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.17-23.50.42:269][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.17-23.50.42:269][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.17-23.50.42:293][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.17-23.50.42:294][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.17-23.50.42:295][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.17-23.50.42:393][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2019.02.17-23.50.42:696][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.17-23.50.42:844][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.17-23.50.42:848][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.17-23.50.42:848][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.17-23.50.42:848][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.17-23.50.42:848][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.17-23.50.42:862][  0]LogNetVersion: NethkenHall 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1845692274)
+[2019.02.17-23.50.43:419][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.112498 seconds
+[2019.02.17-23.50.43:425][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.17-23.50.43:425][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.17-23.50.43:425][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.17-23.50.44:417][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.17-23.50.44:430][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.17-23.50.45:266][  0]SourceControl: Source control is disabled
+[2019.02.17-23.50.45:266][  0]SourceControl: Source control is disabled
+[2019.02.17-23.50.45:267][  0]SourceControl: Source control is disabled
+[2019.02.17-23.50.45:268][  0]SourceControl: Source control is disabled
+[2019.02.17-23.50.45:432][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.17-23.50.45:527][  0]LogOcInput: OculusInput pre-init called
+[2019.02.17-23.50.47:202][  0]LogEngine: Initializing Engine...
+[2019.02.17-23.50.47:203][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.17-23.50.47:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.17-23.50.47:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.17-23.50.47:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.17-23.50.47:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.17-23.50.47:445][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.17-23.50.47:454][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.17-23.50.47:479][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.17-23.50.47:493][  0]LogInit: FAudioDevice initialized.
+[2019.02.17-23.50.47:493][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.17-23.50.47:562][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Davisync/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.17-23.50.47:574][  0]LogInit: Texture streaming: Enabled
+[2019.02.17-23.50.47:585][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.17-23.50.47:598][  0]LogInit: Transaction tracking system initialized
+[2019.02.17-23.50.47:615][  0]BlueprintLog: New page: Editor Load
+[2019.02.17-23.50.47:670][  0]LocalizationService: Localization service is disabled
+[2019.02.17-23.50.48:116][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/' took 0.02s
+[2019.02.17-23.50.48:116][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.17-23.50.48:116][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.17-23.50.48:116][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.17-23.50.48:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.17-23.50.48:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.17-23.50.48:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.17-23.50.48:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.17-23.50.49:668][  0]SourceControl: Source control is disabled
+[2019.02.17-23.50.49:765][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.17-23.50.49:766][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.17-23.50.51:583][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.02.17-23.50.51:584][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.17-23.50.51:588][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.17-23.50.51:593][  0]Cmd: MAP LOAD FILE="C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.17-23.50.51:593][  0]LightingResults: New page: Lighting Build
+[2019.02.17-23.50.51:595][  0]MapCheck: New page: Map Check
+[2019.02.17-23.50.51:595][  0]LightingResults: New page: Lighting Build
+[2019.02.17-23.50.52:018][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:018][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset'
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:019][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton'
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:019][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset'
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:019][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:019][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton'
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:020][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset'
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:020][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton'
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:020][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset'
+[2019.02.17-23.50.52:020][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:020][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:020][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset'
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:021][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset'
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:021][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton'
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:021][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton'
+[2019.02.17-23.50.52:021][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:021][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:021][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton
+[2019.02.17-23.50.52:022][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:022][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton'
+[2019.02.17-23.50.52:022][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:022][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Geometry/Meshes/Radiator.uasset.
+[2019.02.17-23.50.52:022][  0]LoadErrors: Error: /Game/Geometry/Meshes/Radiator : Can't find file for asset. /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton
+[2019.02.17-23.50.52:059][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.02.17-23.50.52:060][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/StarterContent/Architecture/Nethken/NethkenHall.uasset.
+[2019.02.17-23.50.52:060][  0]LoadErrors: Error: /Game/StarterContent/Architecture/Nethken/NethkenHall : Can't find file for asset. /Game/StarterContent/Architecture/Nethken/lambert1
+[2019.02.17-23.50.52:060][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.02.17-23.50.52:060][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/StarterContent/Architecture/Nethken/NethkenHall.uasset.
+[2019.02.17-23.50.52:060][  0]LoadErrors: Error: /Game/StarterContent/Architecture/Nethken/NethkenHall : Can't find file for asset. /Game/StarterContent/Architecture/Nethken/lambert1
+[2019.02.17-23.50.52:378][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.02.17-23.50.52:378][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.02.17-23.50.52:379][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading NULL.
+[2019.02.17-23.50.52:379][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.02.17-23.50.52:379][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Architecture/Nethken/lambert1'
+[2019.02.17-23.50.52:379][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.02.17-23.50.52:379][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Architecture/Nethken/lambert1' while loading NULL.
+[2019.02.17-23.50.52:379][  0]LoadErrors: Failed to load /Game/StarterContent/Architecture/Nethken/lambert1.lambert1 Referenced by NethkenHall
+[2019.02.17-23.50.52:385][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:385][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton'
+[2019.02.17-23.50.52:385][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton.Radiator_Radiator 01_Skeleton Referenced by Radiator_Radiator 01
+[2019.02.17-23.50.52:385][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:385][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton' while loading NULL.
+[2019.02.17-23.50.52:385][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_Skeleton.Radiator_Radiator 01_Skeleton Referenced by Radiator_Radiator 01
+[2019.02.17-23.50.52:385][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:385][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset'
+[2019.02.17-23.50.52:385][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset.Radiator_Radiator 01_PhysicsAsset Referenced by Radiator_Radiator 01
+[2019.02.17-23.50.52:385][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:386][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset' while loading NULL.
+[2019.02.17-23.50.52:386][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 01_PhysicsAsset.Radiator_Radiator 01_PhysicsAsset Referenced by Radiator_Radiator 01
+[2019.02.17-23.50.52:399][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:399][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton'
+[2019.02.17-23.50.52:399][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton.Radiator_Radiator 02_Skeleton Referenced by Radiator_Radiator 02
+[2019.02.17-23.50.52:399][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:399][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton' while loading NULL.
+[2019.02.17-23.50.52:399][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_Skeleton.Radiator_Radiator 02_Skeleton Referenced by Radiator_Radiator 02
+[2019.02.17-23.50.52:400][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:400][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset'
+[2019.02.17-23.50.52:400][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset.Radiator_Radiator 02_PhysicsAsset Referenced by Radiator_Radiator 02
+[2019.02.17-23.50.52:400][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:400][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset' while loading NULL.
+[2019.02.17-23.50.52:400][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 02_PhysicsAsset.Radiator_Radiator 02_PhysicsAsset Referenced by Radiator_Radiator 02
+[2019.02.17-23.50.52:410][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:410][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton'
+[2019.02.17-23.50.52:410][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton.Radiator_Radiator 03_Skeleton Referenced by Radiator_Radiator 03
+[2019.02.17-23.50.52:411][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:411][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton' while loading NULL.
+[2019.02.17-23.50.52:411][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_Skeleton.Radiator_Radiator 03_Skeleton Referenced by Radiator_Radiator 03
+[2019.02.17-23.50.52:411][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:411][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset'
+[2019.02.17-23.50.52:411][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset.Radiator_Radiator 03_PhysicsAsset Referenced by Radiator_Radiator 03
+[2019.02.17-23.50.52:411][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2019.02.17-23.50.52:411][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset' while loading NULL.
+[2019.02.17-23.50.52:411][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Radiator_Radiator 03_PhysicsAsset.Radiator_Radiator 03_PhysicsAsset Referenced by Radiator_Radiator 03
+[2019.02.17-23.50.53:377][  0]LogMaterial: Display: Missing cached shader map for material presentRoom, compiling. 
+[2019.02.17-23.50.53:377][  0]LogMaterial: Warning: C:\Users\Davisync\Desktop\graphicsdesignproject\graphicsdesignproject\NethkenHall\Content\Geometry\Meshes\presentRoom.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.02.17-23.50.53:378][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.02.17-23.50.53:510][  0]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2019.02.17-23.50.53:511][  0]LogMaterial: Warning: C:\Users\Davisync\Desktop\graphicsdesignproject\graphicsdesignproject\NethkenHall\Content\Geometry\Meshes\07_-_Default.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.02.17-23.50.53:511][  0]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/Geometry/Meshes/Blanco.Blanco
+[2019.02.17-23.50.53:684][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.17-23.50.53:716][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.17-23.50.53:743][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.17-23.50.53:743][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2019.02.17-23.50.53:743][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.151
+[2019.02.17-23.50.53:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.17-23.50.53:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.17-23.50.53:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.17-23.50.53:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.17-23.50.53:802][  0]LogCollectionManager: Loaded 0 collections in 0.000977 seconds
+[2019.02.17-23.50.53:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/Collections/' took 0.01s
+[2019.02.17-23.50.53:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Developers/Davisync/Collections/' took 0.00s
+[2019.02.17-23.50.53:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/Collections/' took 0.00s
+[2019.02.17-23.50.53:817][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.17-23.50.53:826][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2709 classes and 653 folders.
+[2019.02.17-23.50.53:831][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.17-23.50.53:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.17-23.50.53:906][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.17-23.50.53:910][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.17-23.50.53:927][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.17-23.50.53:932][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.17-23.50.54:036][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.17-23.50.54:036][  0]LogLoad: (Engine Initialization) Total time: 15.90 seconds
+[2019.02.17-23.50.54:036][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.17-23.50.54:099][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.17-23.50.54:104][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.17-23.50.54:178][  0]LogRenderer: Reallocating scene render targets to support 1380x528 Format 10 NumSamples 1 (Frame:1).
+[2019.02.17-23.50.54:178][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.17-23.50.54:309][  1]LogAssetRegistry: Asset discovery search completed in 11.9383 seconds
+[2019.02.17-23.50.54:311][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.17-23.50.54:311][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.02.17-23.50.56:471][ 69]LogEditorViewport: Clicking Background
+[2019.02.17-23.50.57:732][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.17-23.51.55:693][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube112)
+[2019.02.17-23.52.06:348][271]LogEditorViewport: Clicking Background
+[2019.02.17-23.52.14:281][998]LogEditorViewport: Clicking Background
+[2019.02.17-23.52.26:065][ 55]Cmd: TRANSACTION UNDO
+[2019.02.17-23.52.26:066][ 55]LogEditorTransaction: Undo Move Actors
+[2019.02.17-23.52.26:158][ 55]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.17-23.52.26:900][115]Cmd: TRANSACTION UNDO
+[2019.02.17-23.52.26:900][115]LogEditorTransaction: Undo Marquee Select
+[2019.02.17-23.52.43:546][898]Cmd: TRANSACTION UNDO
+[2019.02.17-23.52.43:546][898]LogEditorTransaction: Undo Move Actors
+[2019.02.17-23.52.44:482][969]LogEditorViewport: Clicking Background
+[2019.02.17-23.52.55:682][920]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.02.17-23.52.56:367][955]LogEditorViewport: Clicking Background
+[2019.02.17-23.52.59:403][231]Cmd: DELETE
+[2019.02.17-23.52.59:404][231]Cmd: ACTOR DELETE
+[2019.02.17-23.52.59:432][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:433][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:433][231]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.52.59:434][231]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.52.59:434][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:434][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:434][231]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.52.59:435][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:435][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:435][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:436][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:436][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:436][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:436][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:436][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.52.59:462][231]LogEditorActor: Deleted 15 Actors (0.058 secs)
+[2019.02.17-23.53.03:195][607]Cmd: DELETE
+[2019.02.17-23.53.03:195][607]Cmd: ACTOR DELETE
+[2019.02.17-23.53.03:221][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.03:221][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.03:222][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.03:246][607]LogEditorActor: Deleted 3 Actors (0.051 secs)
+[2019.02.17-23.53.06:786][972]Cmd: DELETE
+[2019.02.17-23.53.06:786][972]Cmd: ACTOR DELETE
+[2019.02.17-23.53.06:812][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.06:814][972]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.53.06:814][972]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.53.06:861][972]LogEditorActor: Deleted 3 Actors (0.075 secs)
+[2019.02.17-23.53.11:242][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2019.02.17-23.53.12:506][581]LogEditorViewport: Clicking Background
+[2019.02.17-23.53.12:953][632]LogEditorViewport: Clicking Background
+[2019.02.17-23.53.13:404][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2019.02.17-23.53.14:338][789]Cmd: DELETE
+[2019.02.17-23.53.14:338][789]Cmd: ACTOR DELETE
+[2019.02.17-23.53.14:363][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.14:388][789]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.17-23.53.14:855][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane35)
+[2019.02.17-23.53.15:046][859]Cmd: DELETE
+[2019.02.17-23.53.15:046][859]Cmd: ACTOR DELETE
+[2019.02.17-23.53.15:072][859]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.15:095][859]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.17:492][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube97)
+[2019.02.17-23.53.18:124][175]Cmd: DELETE
+[2019.02.17-23.53.18:124][175]Cmd: ACTOR DELETE
+[2019.02.17-23.53.18:150][175]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.18:174][175]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.19:053][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane36)
+[2019.02.17-23.53.19:240][294]Cmd: DELETE
+[2019.02.17-23.53.19:240][294]Cmd: ACTOR DELETE
+[2019.02.17-23.53.19:264][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.19:287][294]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.02.17-23.53.22:019][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane41)
+[2019.02.17-23.53.22:904][671]Cmd: DELETE
+[2019.02.17-23.53.22:904][671]Cmd: ACTOR DELETE
+[2019.02.17-23.53.22:930][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.22:954][671]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.23:769][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (board)
+[2019.02.17-23.53.23:920][772]Cmd: DELETE
+[2019.02.17-23.53.23:920][772]Cmd: ACTOR DELETE
+[2019.02.17-23.53.23:945][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.23:969][772]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.27:755][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane23)
+[2019.02.17-23.53.28:499][238]Cmd: DELETE
+[2019.02.17-23.53.28:499][238]Cmd: ACTOR DELETE
+[2019.02.17-23.53.28:525][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.28:549][238]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.17-23.53.32:953][749]Cmd: DELETE
+[2019.02.17-23.53.32:953][749]Cmd: ACTOR DELETE
+[2019.02.17-23.53.32:978][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.32:978][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.32:978][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.32:978][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.32:978][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.32:979][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.32:979][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.33:003][749]LogEditorActor: Deleted 7 Actors (0.050 secs)
+[2019.02.17-23.53.34:325][905]Cmd: TRANSACTION UNDO
+[2019.02.17-23.53.34:325][905]LogEditorTransaction: Undo Delete Actors
+[2019.02.17-23.53.35:293][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube111)
+[2019.02.17-23.53.35:806][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chair5)
+[2019.02.17-23.53.37:053][177]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (chair)
+[2019.02.17-23.53.37:999][275]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (chair3)
+[2019.02.17-23.53.38:767][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (chair)
+[2019.02.17-23.53.39:629][450]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (chair2)
+[2019.02.17-23.53.40:371][532]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (chair4)
+[2019.02.17-23.53.41:071][609]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (table4)
+[2019.02.17-23.53.41:882][699]Cmd: DELETE
+[2019.02.17-23.53.41:882][699]Cmd: ACTOR DELETE
+[2019.02.17-23.53.41:908][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.41:908][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.41:909][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.41:909][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.41:909][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.41:909][699]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.41:933][699]LogEditorActor: Deleted 6 Actors (0.051 secs)
+[2019.02.17-23.53.46:002][136]Cmd: DELETE
+[2019.02.17-23.53.46:002][136]Cmd: ACTOR DELETE
+[2019.02.17-23.53.46:028][136]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.53.46:074][136]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.02.17-23.53.46:637][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.17-23.53.46:734][202]Cmd: DELETE
+[2019.02.17-23.53.46:734][202]Cmd: ACTOR DELETE
+[2019.02.17-23.53.46:760][202]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.46:786][202]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.02.17-23.53.47:302][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane40)
+[2019.02.17-23.53.47:442][272]Cmd: DELETE
+[2019.02.17-23.53.47:442][272]Cmd: ACTOR DELETE
+[2019.02.17-23.53.47:467][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.47:492][272]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.17-23.53.49:754][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2019.02.17-23.53.50:432][584]Cmd: DELETE
+[2019.02.17-23.53.50:432][584]Cmd: ACTOR DELETE
+[2019.02.17-23.53.50:457][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.50:480][584]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.17-23.53.51:297][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane14)
+[2019.02.17-23.53.51:433][691]Cmd: DELETE
+[2019.02.17-23.53.51:433][691]Cmd: ACTOR DELETE
+[2019.02.17-23.53.51:459][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.51:482][691]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.17-23.53.53:832][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2019.02.17-23.53.54:554][ 17]Cmd: DELETE
+[2019.02.17-23.53.54:554][ 17]Cmd: ACTOR DELETE
+[2019.02.17-23.53.54:579][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.54:603][ 17]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.55:173][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane21)
+[2019.02.17-23.53.55:328][ 95]Cmd: DELETE
+[2019.02.17-23.53.55:328][ 95]Cmd: ACTOR DELETE
+[2019.02.17-23.53.55:352][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.55:377][ 95]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.17-23.53.56:220][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2019.02.17-23.53.56:326][201]Cmd: DELETE
+[2019.02.17-23.53.56:326][201]Cmd: ACTOR DELETE
+[2019.02.17-23.53.56:351][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.56:375][201]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.57:260][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2019.02.17-23.53.57:649][345]Cmd: DELETE
+[2019.02.17-23.53.57:649][345]Cmd: ACTOR DELETE
+[2019.02.17-23.53.57:675][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.57:698][345]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.53.58:784][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2019.02.17-23.53.59:072][500]Cmd: DELETE
+[2019.02.17-23.53.59:072][500]Cmd: ACTOR DELETE
+[2019.02.17-23.53.59:095][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.53.59:119][500]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.17-23.54.00:518][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2019.02.17-23.54.00:688][678]Cmd: DELETE
+[2019.02.17-23.54.00:688][678]Cmd: ACTOR DELETE
+[2019.02.17-23.54.00:713][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.00:737][678]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.17-23.54.01:644][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.02.17-23.54.01:980][819]Cmd: DELETE
+[2019.02.17-23.54.01:980][819]Cmd: ACTOR DELETE
+[2019.02.17-23.54.02:004][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.02:028][819]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.17-23.54.07:732][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane27)
+[2019.02.17-23.54.08:454][542]Cmd: DELETE
+[2019.02.17-23.54.08:454][542]Cmd: ACTOR DELETE
+[2019.02.17-23.54.08:478][542]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.08:502][542]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.17-23.54.09:545][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane26)
+[2019.02.17-23.54.11:065][837]Cmd: DELETE
+[2019.02.17-23.54.11:065][837]Cmd: ACTOR DELETE
+[2019.02.17-23.54.11:089][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.11:113][837]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.17-23.54.12:478][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube111)
+[2019.02.17-23.54.14:753][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2019.02.17-23.54.23:194][ 85]Cmd: DELETE
+[2019.02.17-23.54.23:194][ 85]Cmd: ACTOR DELETE
+[2019.02.17-23.54.23:233][ 85]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.02.17-23.54.23:233][ 85]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2019.02.17-23.54.23:234][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:234][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:234][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:234][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:234][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:235][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:235][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:235][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:235][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:235][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:235][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:236][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:236][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:236][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:236][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:236][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:237][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:237][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:237][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:237][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:238][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:238][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:238][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:238][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:239][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:239][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:239][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:239][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:239][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:239][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:240][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:240][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:240][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:240][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:241][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:241][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:241][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:241][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:241][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:242][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:242][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:242][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:242][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:242][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:243][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:243][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:243][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:243][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:243][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:244][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:244][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:244][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:244][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:244][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:245][ 85]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.54.23:245][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:245][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:246][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:246][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:246][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:246][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:246][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:247][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:247][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:247][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:247][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:248][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:248][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:248][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:248][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:248][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:248][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:249][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:249][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:249][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:249][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:249][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:250][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:250][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:250][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:250][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:250][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:251][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:251][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:251][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:251][ 85]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.54.23:252][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:252][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:252][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.54.23:253][ 85]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.23:254][ 85]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.23:254][ 85]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.23:254][ 85]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.23:254][ 85]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.23:255][ 85]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.23:294][ 85]LogEditorActor: Deleted 97 Actors (0.100 secs)
+[2019.02.17-23.54.27:544][586]Cmd: DELETE
+[2019.02.17-23.54.27:544][586]Cmd: ACTOR DELETE
+[2019.02.17-23.54.27:564][586]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.54.27:565][586]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.54.27:565][586]LogEditorActor: Deleted Actor: PointLight
+[2019.02.17-23.54.27:566][586]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.02.17-23.54.27:567][586]LogEditorActor: Deleted Actor: Brush
+[2019.02.17-23.54.27:601][586]LogEditorActor: Deleted 5 Actors (0.057 secs)
+[2019.02.17-23.54.35:392][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2019.02.17-23.54.59:174][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane16)
+[2019.02.17-23.55.00:123][283]Cmd: DELETE
+[2019.02.17-23.55.00:123][283]Cmd: ACTOR DELETE
+[2019.02.17-23.55.00:142][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.55.00:166][283]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.02.17-23.55.01:508][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube109)
+[2019.02.17-23.55.16:808][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane12)
+[2019.02.17-23.55.17:603][246]Cmd: DELETE
+[2019.02.17-23.55.17:603][246]Cmd: ACTOR DELETE
+[2019.02.17-23.55.17:622][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.55.17:647][246]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.02.17-23.55.18:082][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane13)
+[2019.02.17-23.55.18:140][298]Cmd: DELETE
+[2019.02.17-23.55.18:140][298]Cmd: ACTOR DELETE
+[2019.02.17-23.55.18:159][298]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.55.18:183][298]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.02.17-23.55.21:285][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table3)
+[2019.02.17-23.55.22:257][744]Cmd: DELETE
+[2019.02.17-23.55.22:257][744]Cmd: ACTOR DELETE
+[2019.02.17-23.55.22:275][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.55.22:298][744]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.02.17-23.55.23:225][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table2)
+[2019.02.17-23.55.23:998][940]Cmd: DELETE
+[2019.02.17-23.55.23:999][940]Cmd: ACTOR DELETE
+[2019.02.17-23.55.24:018][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.55.24:041][940]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.02.17-23.55.24:894][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table)
+[2019.02.17-23.55.25:130][ 62]Cmd: DELETE
+[2019.02.17-23.55.25:130][ 62]Cmd: ACTOR DELETE
+[2019.02.17-23.55.25:149][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.17-23.55.25:174][ 62]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.02.17-23.55.26:194][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube111)
+[2019.02.17-23.55.36:825][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube110)
+[2019.02.17-23.55.51:914][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall4)
+[2019.02.17-23.55.52:517][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall4)
+[2019.02.17-23.55.53:821][170]Cmd: EDIT COPY
+[2019.02.17-23.55.54:218][216]Cmd: EDIT PASTE
+[2019.02.17-23.56.45:610][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2019.02.17-23.56.47:852][358]Cmd: EDIT COPY
+[2019.02.17-23.56.48:890][482]Cmd: EDIT PASTE
+[2019.02.17-23.57.22:026][141]Cmd: EDIT COPY
+[2019.02.17-23.57.22:522][199]Cmd: EDIT PASTE
+[2019.02.17-23.58.41:035][913]Cmd: EDIT COPY
+[2019.02.17-23.58.41:288][940]Cmd: EDIT PASTE
+[2019.02.17-23.59.06:775][846]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube114)
+[2019.02.17-23.59.06:800][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.17-23.59.08:662][ 65]LogEditorViewport: Clicking Background
+[2019.02.17-23.59.22:972][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2019.02.17-23.59.23:845][827]Cmd: EDIT COPY
+[2019.02.17-23.59.24:082][854]Cmd: EDIT PASTE
+[2019.02.18-00.00.07:700][445]LogEditorViewport: Clicking Background
+[2019.02.18-00.00.14:790][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2019.02.18-00.00.27:795][764]Cmd: EDIT COPY
+[2019.02.18-00.00.28:080][798]Cmd: EDIT PASTE
+[2019.02.18-00.00.40:813][247]Cmd: DELETE
+[2019.02.18-00.00.40:813][247]Cmd: ACTOR DELETE
+[2019.02.18-00.00.40:832][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.18-00.00.40:858][247]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.02.18-00.00.44:214][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2019.02.18-00.00.45:722][779]Cmd: EDIT COPY
+[2019.02.18-00.00.45:965][808]Cmd: EDIT PASTE
+[2019.02.18-00.01.13:009][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2019.02.18-00.01.13:881][960]Cmd: EDIT COPY
+[2019.02.18-00.01.14:125][989]Cmd: EDIT PASTE
+[2019.02.18-00.01.36:160][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NethkenHall5)
+[2019.02.18-00.01.36:776][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2019.02.18-00.01.41:484][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2019.02.18-00.01.42:436][149]Cmd: EDIT COPY
+[2019.02.18-00.01.42:682][177]Cmd: EDIT PASTE
+[2019.02.18-00.02.28:824][203]LogEditorViewport: Clicking Background
+[2019.02.18-00.02.31:123][461]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-00.02.34:117][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-00.02.34:647][815]LogSavePackage: Moving 'C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Saved/ThirdPersonExampleMap186C997F4DF9023FE83B7196DFFFA65D.tmp' to 'C:/Users/Davisync/Desktop/graphicsdesignproject/graphicsdesignproject/NethkenHall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.18-00.02.34:682][815]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.555
+[2019.02.18-00.02.54:530][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-00.02.55:627][480]LogSlate: Window 'Message Log' being destroyed
+[2019.02.18-00.02.55:632][480]LogSlate: Window 'Message Log' being destroyed
+[2019.02.18-00.02.57:038][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
